@@ -1,0 +1,2127 @@
+,unified_id,zipcode,street_name,city,bedrooms,bathrooms,guests,hot_tub,pool
+0,AIR10052559,92315,Heavenly Valley Road,Big Bear Lake,3,3,8,True,False
+1,AIR10178668,92315,Round Drive,Big Bear Lake,3,3,7,False,False
+2,AIR10211700,92315,,Big Bear Lake,5,2,12,False,False
+3,AIR10344705,92314,,Big Bear City,3,1,5,False,False
+4,AIR10424683,92315,Starvation Flats Road,Big Bear Lake,3,2,8,False,True
+5,AIR10471190,92314,Spruce Lane,Big Bear City,3,2,8,True,False
+6,AIR10551482,92314,La Crescenta Drive,Big Bear City,5,4,15,True,False
+7,AIR11209785,92314,,Big Bear City,3,2,8,True,False
+8,AIR11458668,92315,Waynoka Lane,Big Bear Lake,3,2,8,False,False
+9,AIR11529774,92284,Carmelita Way,Yucca Valley,4,4,10,True,False
+10,AIR11623857,92315,Starvation Flats Road,Big Bear Lake,3,2,8,True,True
+11,AIR11654882,92314,Fenway Drive,Big Bear City,3,3,8,True,False
+12,AIR11692683,92314,Mullins Drive,Big Bear City,5,3,10,True,False
+13,AIR11735648,92315,Summit Boulevard,Big Bear Lake,3,2,8,False,False
+14,AIR11785147,92315,Starvation Flats Road,Big Bear Lake,3,2,8,True,True
+15,AIR11799363,92315,,Big Bear Lake,3,2,5,False,False
+16,AIR11921717,92315,Eureka Drive,Big Bear Lake,3,3,10,True,False
+17,AIR119838,92252,Mountain View Circle,Joshua Tree,3,3,10,False,True
+18,AIR12246386,92315,Silver Tip Drive,Big Bear Lake,3,3,10,True,False
+19,AIR12325663,92252,Navajo Trail,Joshua Tree,3,3,6,True,False
+20,AIR1243216,92252,Saddleback Road,Joshua Tree,3,2,8,True,False
+21,AIR12466059,92315,Yosemite Drive,Big Bear Lake,4,3,9,False,False
+22,AIR12495850,92315,,Big Bear Lake,3,2,7,False,False
+23,AIR12520281,92315,Deer Run Court,Big Bear Lake,3,3,8,False,False
+24,AIR12647814,92284,,Yucca Valley,3,3,6,True,True
+25,AIR12651776,92314,,Big Bear City,4,2,12,False,False
+26,AIR12826044,92314,East Aeroplane Boulevard,Big Bear City,3,2,10,False,False
+27,AIR12833882,92315,Siskiyou Drive,Big Bear Lake,3,2,8,False,False
+28,AIR12904929,92315,Jeffries Road,Big Bear Lake,3,2,7,True,False
+29,AIR12942776,92252,Sunburst Drive,Joshua Tree,3,2,5,False,False
+30,AIR13060219,92252,Foothill Drive,Joshua Tree,3,1,9,True,True
+31,AIR13126924,92315,Canvasback Road,Big Bear Lake,3,2,8,False,False
+32,AIR13167327,92315,Menlo Drive,Big Bear Lake,5,3,15,True,False
+33,AIR13274494,92252,,Joshua Tree,3,1,6,True,True
+34,AIR13634652,92315,Starvation Flats Road,Big Bear Lake,5,5,14,True,False
+35,AIR13639669,92315,Siskiyou Drive,Big Bear Lake,3,2,8,False,False
+36,AIR13686367,92314,Antelope Mountain Drive,Big Bear City,4,3,8,True,False
+37,AIR13687864,92314,Green Oaks Court,Big Bear City,3,2,8,True,False
+38,AIR13696080,92315,Round Drive,Big Bear Lake,3,2,8,False,False
+39,AIR13716929,92315,Temple Lane,Big Bear Lake,3,2,10,False,False
+40,AIR13724939,92315,Marin Road,Big Bear Lake,5,4,14,False,False
+41,AIR13746160,92315,Eagle Drive,Big Bear Lake,4,3,14,True,False
+42,AIR13801200,92315,Wren Drive,Big Bear Lake,3,2,7,False,False
+43,AIR13829324,92315,Tahoe Drive,Big Bear Lake,3,2,8,False,False
+44,AIR13996202,92315,Blue Jay Road,Big Bear Lake,3,2,7,False,False
+45,AIR14089677,92315,Tehama Drive,Big Bear Lake,3,2,7,True,False
+46,AIR14124182,92315,,Big Bear Lake,3,1,6,False,False
+47,AIR14124206,92315,,Big Bear Lake,3,2,9,False,False
+48,AIR14124266,92314,Villa Grove Avenue,Big Bear City,3,2,10,False,False
+49,AIR14124584,92315,Stony Creek Road,Big Bear Lake,3,3,8,False,False
+50,AIR1428379,92315,Saint Moritz Drive,Big Bear Lake,4,2,8,False,False
+51,AIR14335230,92314,La Crescenta Drive,Big Bear City,3,3,10,True,False
+52,AIR14342504,92314,Sunset Lane,Big Bear City,3,2,6,True,False
+53,AIR14467679,92315,San Pasqual Drive,Big Bear Lake,4,2,8,False,False
+54,AIR14469396,92314,West Rainbow Boulevard,Big Bear City,3,2,10,False,False
+55,AIR14480012,92315,Park Avenue,Big Bear Lake,3,2,8,True,False
+56,AIR14480136,92315,,Big Bear Lake,3,2,8,False,False
+57,AIR14480143,92314,Angels Camp Road,Big Bear City,3,2,8,False,False
+58,AIR14529233,92315,Temple Lane,Big Bear Lake,3,2,6,False,False
+59,AIR14759123,92314,Cedar Mountain Road,Big Bear City,5,3,15,True,False
+60,AIR14771743,92315,Lassen Drive,Big Bear Lake,4,2,8,False,False
+61,AIR14786504,92315,Thrush Court,Big Bear Lake,4,4,13,False,False
+62,AIR1484195,92315,,Big Bear Lake,4,4,10,True,False
+63,AIR14948466,92315,,Big Bear Lake,3,2,14,True,False
+64,AIR14961212,92314,Klamath Road,Big Bear City,4,3,12,False,False
+65,AIR14983336,92252,Sunset Road,Joshua Tree,3,2,8,True,False
+66,AIR14992690,92315,Forest Road,Big Bear Lake,3,3,10,True,False
+67,AIR14994173,92315,Edgemoor Road,Big Bear Lake,5,4,10,False,False
+68,AIR15056526,92315,Saint Moritz Drive,Big Bear Lake,3,2,8,False,False
+69,AIR15073367,92252,,Joshua Tree,3,3,4,True,False
+70,AIR15085009,92315,Chipmunk Lane,Big Bear Lake,3,3,10,False,False
+71,AIR15165066,92315,,Big Bear Lake,3,2,6,False,False
+72,AIR15225059,92252,Wilton Road,Joshua Tree,4,3,8,True,False
+73,AIR1526344,92284,Kismet Road,Yucca Valley,3,2,7,True,False
+74,AIR15436072,92314,La Crescenta Drive,Big Bear City,3,2,10,False,False
+75,AIR15453260,92315,,Big Bear Lake,3,2,10,False,False
+76,AIR15484066,92284,Surrey Avenue,Yucca Valley,4,2,12,True,True
+77,AIR15498520,92315,Starvation Flats Road,Big Bear Lake,3,2,8,True,True
+78,AIR15512762,92315,Guinan Lane,Big Bear Lake,4,2,10,True,False
+79,AIR15564286,92315,Willow Landing Road,Big Bear Lake,3,3,8,True,False
+80,AIR15598354,92315,Crestwood Drive,Big Bear Lake,3,3,10,True,False
+81,AIR15616221,92252,,Joshua Tree,3,1,6,False,False
+82,AIR15630911,92315,Mapleleaf Drive,Big Bear Lake,4,4,9,True,False
+83,AIR15634146,92315,Switzerland Drive,Big Bear Lake,3,2,8,False,False
+84,AIR15707836,92315,,Big Bear Lake,3,2,8,True,False
+85,AIR15735291,92252,,Joshua Tree,4,2,9,True,True
+86,AIR15754153,92315,Willow Landing Road,Big Bear Lake,4,3,11,False,False
+87,AIR15758715,92315,Sunset Drive,Big Bear Lake,3,2,8,False,False
+88,AIR15905180,92315,,Big Bear Lake,5,4,15,True,False
+89,AIR15938411,92315,,Big Bear Lake,3,3,10,True,False
+90,AIR15964091,92284,,Yucca Valley,3,2,6,True,False
+91,AIR15970296,92314,,Big Bear City,3,2,10,False,False
+92,AIR16015622,92315,,Big Bear Lake,4,3,11,True,False
+93,AIR16016794,92315,,Big Bear Lake,3,3,8,True,False
+94,AIR16037507,92315,,Big Bear Lake,4,2,10,True,False
+95,AIR16039149,92315,,Big Bear Lake,4,3,10,True,False
+96,AIR16050122,92314,,Big Bear City,3,2,8,False,False
+97,AIR16070480,92315,,Big Bear Lake,3,2,10,False,False
+98,AIR16083055,92315,,Big Bear Lake,3,2,8,False,False
+99,AIR16088349,92315,,Big Bear Lake,3,3,8,True,False
+100,AIR16174471,92315,,Big Bear Lake,3,2,8,False,False
+101,AIR16221165,92314,,Big Bear City,3,3,7,True,False
+102,AIR16231405,92314,,Big Bear City,4,3,15,True,False
+103,AIR162404,92314,Eagle Mountain Drive,Big Bear City,3,2,15,False,False
+104,AIR16245792,92315,,Big Bear Lake,3,2,10,False,False
+105,AIR16259330,92315,,Big Bear Lake,3,2,6,False,False
+106,AIR16288265,92284,,Yucca Valley,3,2,6,False,False
+107,AIR16304086,92314,,Big Bear City,3,3,7,False,False
+108,AIR16312572,92314,,Big Bear City,3,2,10,True,False
+109,AIR16323226,92315,,Big Bear Lake,3,2,8,False,False
+110,AIR16334878,92315,,Big Bear Lake,4,3,11,False,False
+111,AIR16367671,92314,,Big Bear City,3,1,6,False,False
+112,AIR16428200,92314,,Big Bear City,4,4,13,True,True
+113,AIR16440183,92314,,Big Bear City,3,2,8,True,False
+114,AIR16441497,92315,,Big Bear Lake,3,3,8,True,False
+115,AIR16489418,92315,,Big Bear Lake,3,2,5,False,False
+116,AIR16498571,92314,,Big Bear City,3,3,9,True,False
+117,AIR16498790,92315,,Big Bear Lake,3,2,8,True,False
+118,AIR16498877,92315,,Big Bear Lake,3,2,8,False,False
+119,AIR16571256,92315,,Big Bear Lake,3,2,6,False,False
+120,AIR16572459,92314,,Big Bear City,4,3,10,False,False
+121,AIR16607032,92314,,Big Bear City,3,2,8,False,False
+122,AIR16635168,92314,,Big Bear City,3,2,10,False,False
+123,AIR16649967,92315,,Big Bear Lake,3,3,8,False,False
+124,AIR16666349,92315,,Big Bear Lake,3,2,10,False,False
+125,AIR16780142,92252,,Joshua Tree,4,4,8,True,False
+126,AIR16789712,92315,,Big Bear Lake,3,2,7,False,False
+127,AIR16841066,92315,,Big Bear Lake,3,2,7,True,False
+128,AIR16856200,92315,,Big Bear Lake,3,2,8,True,False
+129,AIR16872807,92315,,Big Bear Lake,3,2,9,True,False
+130,AIR16917201,92315,,Big Bear Lake,3,2,7,True,False
+131,AIR16943701,92315,,Big Bear Lake,3,2,7,False,False
+132,AIR17030857,92315,,Big Bear Lake,3,2,7,False,False
+133,AIR17110227,92314,,Big Bear City,3,3,10,False,False
+134,AIR17212296,92252,,Joshua Tree,3,2,15,True,True
+135,AIR1722392,92315,Thrush Drive,Big Bear Lake,4,2,12,False,False
+136,AIR17333334,92315,,Big Bear Lake,5,4,15,True,False
+137,AIR17349530,92315,,Big Bear Lake,3,2,7,False,False
+138,AIR17364180,92252,,Joshua Tree,3,2,9,False,False
+139,AIR17369087,92314,,Big Bear City,3,2,12,True,False
+140,AIR17384871,92315,,Big Bear Lake,3,3,10,True,False
+141,AIR17408320,92314,,Big Bear City,3,2,8,True,False
+142,AIR17545294,92315,,Big Bear Lake,4,3,10,False,False
+143,AIR17607459,92315,,Big Bear Lake,4,3,11,True,False
+144,AIR17607576,92315,,Big Bear Lake,3,2,6,True,False
+145,AIR17607578,92315,,Big Bear Lake,3,2,9,True,False
+146,AIR17607579,92314,,Big Bear City,3,3,7,True,False
+147,AIR17607586,92315,,Big Bear Lake,3,3,10,True,False
+148,AIR17607599,92315,,Big Bear Lake,4,3,12,True,False
+149,AIR17607600,92315,,Big Bear Lake,3,2,8,False,False
+150,AIR17607609,92315,,Big Bear Lake,3,2,6,True,False
+151,AIR17607620,92315,,Big Bear Lake,5,6,15,True,False
+152,AIR17619224,92284,,Yucca Valley,3,4,4,True,False
+153,AIR17638604,92315,Comstock Lane,Big Bear Lake,5,4,15,False,False
+154,AIR17655595,92284,,Yucca Valley,3,2,6,True,False
+155,AIR1782712,92284,Emerson Avenue,Yucca Valley,3,2,8,False,False
+156,AIR17830005,92315,,Big Bear Lake,4,2,11,False,False
+157,AIR17909602,92315,,Big Bear Lake,3,2,9,False,False
+158,AIR17924654,92314,,Big Bear City,4,3,11,True,False
+159,AIR18003964,92315,,Big Bear Lake,3,3,11,True,False
+160,AIR18105126,92252,,Joshua Tree,3,2,8,True,True
+161,AIR18121333,92315,,Big Bear Lake,3,2,5,False,False
+162,AIR18193860,92315,,Big Bear Lake,3,2,6,False,False
+163,AIR18232399,92314,,Big Bear City,4,3,10,False,False
+164,AIR18235116,92315,,Big Bear Lake,5,3,10,False,False
+165,AIR18313664,92314,Los Angeles Avenue,Big Bear City,3,2,5,True,False
+166,AIR18343563,92315,,Big Bear Lake,3,2,6,True,False
+167,AIR18347608,92314,,Big Bear City,3,2,9,False,False
+168,AIR184262,92252,,Joshua Tree,3,2,6,True,False
+169,AIR18448029,92315,,Big Bear Lake,3,2,6,True,False
+170,AIR18462952,92315,,Big Bear Lake,4,2,9,True,False
+171,AIR18543482,92314,,Big Bear City,4,2,11,False,False
+172,AIR18567243,92314,,Big Bear City,3,1,6,False,False
+173,AIR18567371,92315,,Big Bear Lake,3,2,6,False,False
+174,AIR18567474,92315,,Big Bear Lake,3,2,8,False,False
+175,AIR18567553,92315,,Big Bear Lake,3,2,8,False,False
+176,AIR18567675,92314,,Big Bear City,3,2,8,False,False
+177,AIR18651707,92315,,Big Bear Lake,3,2,10,True,False
+178,AIR18703258,92315,Balsam Drive,Big Bear Lake,3,2,9,False,False
+179,AIR18722813,92252,,Joshua Tree,3,2,8,True,False
+180,AIR18874839,92314,,Big Bear City,3,4,10,True,False
+181,AIR18895308,92315,,Big Bear Lake,3,2,8,True,True
+182,AIR18917105,92315,Switzerland Drive,Big Bear Lake,4,3,13,True,False
+183,AIR18917106,92314,,Big Bear City,3,2,6,False,False
+184,AIR18998787,92314,,Big Bear City,3,2,11,False,False
+185,AIR19019245,92252,,Joshua Tree,3,2,5,True,False
+186,AIR19033667,92315,Switzerland Drive,Big Bear Lake,3,3,10,False,False
+187,AIR19033707,92315,,Big Bear Lake,3,3,12,True,False
+188,AIR19035499,92315,Switzerland Drive,Big Bear Lake,3,2,6,True,False
+189,AIR19081482,92315,Comstock Lane,Big Bear Lake,3,3,10,True,False
+190,AIR19244512,92314,,Big Bear City,3,3,9,True,False
+191,AIR19317721,92315,Edgemoor Road,Big Bear Lake,5,3,11,False,False
+192,AIR19332170,92252,,Joshua Tree,3,3,6,True,True
+193,AIR19360866,92315,Olympic Drive,Big Bear Lake,3,2,6,False,False
+194,AIR19383702,92315,Olympic Drive,Big Bear Lake,4,3,15,True,False
+195,AIR19386566,92252,,Joshua Tree,3,2,6,False,False
+196,AIR19403293,92314,,Big Bear City,3,3,8,True,False
+197,AIR19406789,92284,,Yucca Valley,3,2,8,True,False
+198,AIR19506963,92315,,Big Bear Lake,3,2,6,True,False
+199,AIR1970683,92315,Willow Landing Road,Big Bear Lake,3,3,8,True,False
+200,AIR19722838,92284,,Yucca Valley,3,2,6,True,False
+201,AIR19749104,92315,,Big Bear Lake,3,2,6,True,False
+202,AIR19810986,92315,Windsong Place,Big Bear Lake,4,3,10,False,False
+203,AIR20074610,92314,,Big Bear City,3,2,8,False,False
+204,AIR20120805,92284,,Yucca Valley,3,2,6,False,True
+205,AIR20184724,92315,,Big Bear Lake,4,3,10,True,False
+206,AIR20184725,92315,,Big Bear Lake,3,2,8,True,False
+207,AIR20184735,92315,,Big Bear Lake,3,2,9,True,False
+208,AIR20184741,92315,,Big Bear Lake,4,3,13,True,False
+209,AIR20184746,92315,,Big Bear Lake,3,3,9,True,False
+210,AIR20184750,92314,,Big Bear City,3,3,8,True,False
+211,AIR20184754,92315,,Big Bear Lake,3,2,7,True,False
+212,AIR20184760,92315,,Big Bear Lake,3,3,8,True,False
+213,AIR20193224,92315,,Big Bear Lake,3,1,12,False,False
+214,AIR20211077,92315,,Big Bear Lake,4,2,7,False,False
+215,AIR20217277,92315,,Big Bear Lake,3,2,6,True,False
+216,AIR20232436,92315,,Big Bear Lake,3,3,10,False,False
+217,AIR20232441,92314,,Big Bear City,5,4,14,True,False
+218,AIR20309826,92315,,Big Bear Lake,3,2,7,True,False
+219,AIR20393622,92314,,Big Bear City,3,3,11,True,False
+220,AIR20420503,92315,,Big Bear Lake,4,3,11,True,False
+221,AIR20428024,92315,,Big Bear Lake,3,2,7,False,False
+222,AIR20447177,92252,,Joshua Tree,3,2,6,True,True
+223,AIR20450589,92314,,Big Bear City,3,2,8,True,False
+224,AIR20456529,92315,,Big Bear Lake,3,2,8,True,False
+225,AIR20608995,92314,,Big Bear City,3,1,8,True,False
+226,AIR20616515,92315,,Big Bear Lake,5,3,10,False,False
+227,AIR20623968,92315,,Big Bear Lake,5,5,15,True,False
+228,AIR20625865,92314,,Big Bear City,3,2,8,False,False
+229,AIR20695812,92315,,Big Bear Lake,5,6,12,True,False
+230,AIR20696692,92314,,Big Bear City,3,1,5,True,False
+231,AIR20829623,92315,,Big Bear Lake,3,2,8,True,False
+232,AIR20836494,92315,,Big Bear Lake,3,2,6,True,False
+233,AIR20844432,92315,,Big Bear Lake,3,2,6,True,False
+234,AIR20875230,92314,,Big Bear City,3,1,5,False,False
+235,AIR20993345,92315,,Big Bear Lake,3,2,10,False,False
+236,AIR20996593,92314,,Big Bear City,4,4,10,True,False
+237,AIR21024122,92315,,Big Bear Lake,3,2,8,False,False
+238,AIR21079905,92315,,Big Bear Lake,3,3,7,False,False
+239,AIR21082012,92315,,Big Bear Lake,4,3,10,True,False
+240,AIR21149200,92315,,Big Bear Lake,5,3,15,True,False
+241,AIR21149203,92315,,Big Bear Lake,3,2,8,True,False
+242,AIR21149204,92315,,Big Bear Lake,4,3,10,True,False
+243,AIR21149210,92315,,Big Bear Lake,4,3,10,True,False
+244,AIR21149217,92315,,Big Bear Lake,4,3,10,True,False
+245,AIR21149221,92315,,Big Bear Lake,4,3,12,True,False
+246,AIR21149222,92314,,Big Bear City,3,2,10,True,False
+247,AIR21149223,92314,,Big Bear City,3,2,7,True,False
+248,AIR21149224,92315,,Big Bear Lake,3,3,10,True,False
+249,AIR21154906,92315,,Big Bear Lake,4,3,12,False,False
+250,AIR21289349,92314,,Big Bear City,3,2,8,True,False
+251,AIR21354543,92315,,Big Bear Lake,3,2,6,False,False
+252,AIR21359235,92315,,Big Bear Lake,3,2,6,True,False
+253,AIR21367725,92314,,Big Bear City,3,3,8,True,False
+254,AIR21368567,92315,,Big Bear Lake,3,2,8,True,False
+255,AIR21384024,92315,,Big Bear Lake,5,3,12,False,False
+256,AIR21438826,92314,,Big Bear City,3,3,8,True,False
+257,AIR21440198,92314,,Big Bear City,3,2,8,False,False
+258,AIR21451498,92315,,Big Bear Lake,3,2,6,True,False
+259,AIR21473739,92315,,Big Bear Lake,3,2,7,True,False
+260,AIR21476331,92314,,Big Bear City,4,3,12,True,False
+261,AIR21500024,92315,,Big Bear Lake,4,2,8,False,False
+262,AIR21500446,92284,,Yucca Valley,3,3,10,False,False
+263,AIR21527691,92315,,Big Bear Lake,4,4,10,True,False
+264,AIR21541299,92314,,Big Bear City,3,2,8,False,False
+265,AIR21582359,92314,,Big Bear City,3,2,8,False,False
+266,AIR21594054,92315,,Big Bear Lake,4,3,10,True,False
+267,AIR21610728,92314,,Big Bear City,5,4,15,False,False
+268,AIR21611305,92284,,Yucca Valley,3,3,6,True,False
+269,AIR21623109,92315,,Big Bear Lake,3,2,6,True,False
+270,AIR21663239,92252,,Joshua Tree,4,3,8,True,True
+271,AIR21681203,92315,,Big Bear Lake,4,2,11,True,False
+272,AIR21701935,92284,,Yucca Valley,4,2,9,False,False
+273,AIR21711487,92314,,Big Bear City,3,3,7,False,False
+274,AIR21717242,92314,,Big Bear City,3,2,7,False,False
+275,AIR21749401,92315,,Big Bear Lake,3,2,7,True,False
+276,AIR21753106,92315,,Big Bear Lake,3,2,6,True,False
+277,AIR21768145,92315,,Big Bear Lake,3,2,10,True,False
+278,AIR21768475,92315,,Big Bear Lake,3,2,10,False,False
+279,AIR21770116,92252,,Joshua Tree,3,3,10,True,False
+280,AIR21802861,92315,,Big Bear Lake,3,2,10,False,False
+281,AIR21830441,92252,,Joshua Tree,3,2,6,True,False
+282,AIR21838159,92315,,Big Bear Lake,3,2,10,True,False
+283,AIR21838354,92314,,Big Bear City,3,2,10,False,False
+284,AIR21847421,92315,,Big Bear Lake,3,3,7,True,False
+285,AIR21848033,92315,,Big Bear Lake,4,3,11,False,False
+286,AIR21848231,92314,,Big Bear City,3,2,8,True,False
+287,AIR21850098,92315,,Big Bear Lake,3,2,8,False,False
+288,AIR21850181,92314,,Big Bear City,5,4,15,True,False
+289,AIR21850216,92314,,Big Bear City,3,3,8,True,False
+290,AIR21852068,92315,,Big Bear Lake,3,3,9,False,False
+291,AIR21852145,92315,,Big Bear Lake,4,6,13,True,False
+292,AIR21852181,92315,,Big Bear Lake,3,3,9,False,False
+293,AIR21924286,92315,,Big Bear Lake,3,2,7,False,False
+294,AIR21927129,92252,,Joshua Tree,3,2,6,True,True
+295,AIR21927647,92314,,Big Bear City,3,2,8,False,False
+296,AIR21934237,92284,,Yucca Valley,3,2,6,False,False
+297,AIR21937014,92315,,Big Bear Lake,3,2,7,True,False
+298,AIR21937066,92315,,Big Bear Lake,3,3,10,True,False
+299,AIR21937833,92252,,Joshua Tree,3,2,6,False,False
+300,AIR22013713,92315,,Big Bear Lake,3,2,7,True,False
+301,AIR22028034,92252,,Joshua Tree,3,2,6,True,False
+302,AIR22119257,92315,,Big Bear Lake,3,3,8,True,False
+303,AIR22236930,92252,,Joshua Tree,3,2,5,True,True
+304,AIR22283623,92252,,Joshua Tree,4,4,10,True,True
+305,AIR22294413,92315,,Big Bear Lake,3,2,8,True,False
+306,AIR22296723,92315,,Big Bear Lake,5,5,15,True,False
+307,AIR22345879,92315,,Big Bear Lake,4,2,9,False,False
+308,AIR22409644,92315,,Big Bear Lake,3,3,7,True,False
+309,AIR22420197,92284,,Yucca Valley,3,2,6,True,False
+310,AIR22443488,92252,,Joshua Tree,3,2,6,True,False
+311,AIR22452364,92315,,Big Bear Lake,4,4,15,True,False
+312,AIR22657246,92315,,Big Bear Lake,3,2,8,False,False
+313,AIR22770748,92314,,Big Bear City,3,3,8,True,False
+314,AIR22850694,92314,,Big Bear City,4,3,12,False,False
+315,AIR22886448,92315,,Big Bear Lake,4,4,8,False,False
+316,AIR22889273,92315,,Big Bear Lake,3,3,8,False,False
+317,AIR22890321,92252,,Joshua Tree,3,2,6,True,True
+318,AIR22940120,92252,,Joshua Tree,3,2,8,True,False
+319,AIR23020352,92315,,Big Bear Lake,4,3,11,True,False
+320,AIR23036720,92315,,Big Bear Lake,3,2,8,False,False
+321,AIR2305425,92284,El Dorado Drive,Yucca Valley,3,2,5,False,True
+322,AIR23094837,92314,,Big Bear City,4,3,12,True,False
+323,AIR23150637,92252,,Joshua Tree,3,3,6,True,True
+324,AIR23203257,92314,,Big Bear City,3,2,8,False,False
+325,AIR23258225,92252,,Joshua Tree,5,3,15,True,True
+326,AIR23292587,92284,,Yucca Valley,3,2,6,True,False
+327,AIR23386508,92315,,Big Bear Lake,3,2,8,False,False
+328,AIR2343684,92315,Sand Canyon Court,Big Bear Lake,3,3,10,True,False
+329,AIR23438325,92252,,Joshua Tree,3,1,8,True,True
+330,AIR23469171,92315,,Big Bear Lake,3,2,6,False,False
+331,AIR23503416,92315,,Big Bear Lake,4,3,11,True,False
+332,AIR23543580,92252,,Joshua Tree,4,3,8,True,False
+333,AIR23547295,92314,,Big Bear City,3,2,8,True,False
+334,AIR23630559,92314,,Big Bear City,4,4,12,False,False
+335,AIR23668704,92284,,Yucca Valley,3,3,8,True,True
+336,AIR23702546,92315,,Big Bear Lake,3,2,9,False,False
+337,AIR23715521,92315,,Big Bear Lake,4,3,10,False,False
+338,AIR23768171,92315,,Big Bear Lake,4,3,8,False,False
+339,AIR23784019,92314,,Big Bear City,3,2,7,True,False
+340,AIR23793421,92252,,Joshua Tree,4,3,10,False,False
+341,AIR23862135,92315,,Big Bear Lake,4,3,11,False,False
+342,AIR23899141,92284,,Yucca Valley,3,3,6,True,False
+343,AIR23942538,92314,,Big Bear City,4,3,8,False,False
+344,AIR24013535,92284,,Yucca Valley,3,1,5,False,False
+345,AIR24038529,92284,,Yucca Valley,5,3,15,True,False
+346,AIR24045096,92252,,Joshua Tree,3,2,12,False,False
+347,AIR24178318,92314,,Big Bear City,3,3,10,True,False
+348,AIR24182317,92252,,Joshua Tree,3,2,6,True,True
+349,AIR24206667,92314,,Big Bear City,3,3,6,True,False
+350,AIR24221022,92252,,Joshua Tree,3,1,8,False,False
+351,AIR24232505,92315,,Big Bear Lake,3,2,5,False,False
+352,AIR24255105,92284,,Yucca Valley,4,3,10,False,False
+353,AIR24287359,92284,,Yucca Valley,3,2,6,False,True
+354,AIR2430228,92315,Scandia Road,Big Bear Lake,4,3,10,True,False
+355,AIR24309766,92252,,Joshua Tree,4,3,14,False,False
+356,AIR24315472,92315,,Big Bear Lake,4,3,11,True,False
+357,AIR2431950,92315,Mountain Sky Drive,Big Bear Lake,3,3,10,True,False
+358,AIR24555258,92315,,Big Bear Lake,4,2,8,False,False
+359,AIR24637419,92252,,Joshua Tree,3,2,12,False,False
+360,AIR24655415,92314,,Big Bear City,4,2,8,True,False
+361,AIR24660161,92315,,Big Bear Lake,3,3,10,True,False
+362,AIR24700767,92284,,Yucca Valley,3,2,8,True,False
+363,AIR2477352,92315,Ridgecrest Drive,Big Bear Lake,3,2,7,False,False
+364,AIR24800579,92284,,Yucca Valley,3,2,8,False,False
+365,AIR24831057,92284,,Yucca Valley,3,2,6,True,False
+366,AIR2483588,92315,Thrush Drive,Big Bear Lake,3,2,8,False,False
+367,AIR24857702,92315,,Big Bear Lake,4,3,12,False,False
+368,AIR24938059,92284,,Yucca Valley,4,2,8,False,False
+369,AIR24988387,92314,,Big Bear City,3,3,10,True,False
+370,AIR24989883,92315,,Big Bear Lake,4,3,10,True,False
+371,AIR25012960,92284,,Yucca Valley,5,4,8,True,True
+372,AIR25026507,92315,,Big Bear Lake,3,2,6,False,False
+373,AIR2510074,92314,Robinhood Boulevard,Big Bear City,3,2,6,False,False
+374,AIR25130869,92315,,Big Bear Lake,3,2,8,False,False
+375,AIR25172825,92314,,Big Bear City,3,3,8,True,False
+376,AIR25201967,92252,,Joshua Tree,3,2,6,False,False
+377,AIR2525902,92315,Club View Drive,Big Bear Lake,4,3,8,True,False
+378,AIR25263812,92314,,Big Bear City,3,2,6,False,False
+379,AIR25356728,92314,,Big Bear City,3,3,8,True,False
+380,AIR25378892,92315,,Big Bear Lake,3,2,8,True,False
+381,AIR25499481,92315,,Big Bear Lake,3,2,6,True,False
+382,AIR25732632,92252,,Joshua Tree,4,2,8,False,False
+383,AIR25779086,92315,,Big Bear Lake,3,2,7,False,False
+384,AIR25786600,92315,,Big Bear Lake,4,3,10,True,False
+385,AIR25893671,92314,,Big Bear City,3,2,6,False,False
+386,AIR25981294,92315,,Big Bear Lake,3,3,10,True,True
+387,AIR26170882,92284,,Yucca Valley,3,3,8,False,False
+388,AIR26261918,92252,,Joshua Tree,3,2,6,True,False
+389,AIR26279903,92314,,Big Bear City,3,3,10,False,False
+390,AIR26327847,92314,,Big Bear City,3,2,6,True,False
+391,AIR26331936,92252,,Joshua Tree,4,3,7,True,True
+392,AIR26339365,92252,,Joshua Tree,3,2,7,True,False
+393,AIR263614,92314,Myrtle Avenue,Big Bear City,3,1,6,False,False
+394,AIR26361848,92315,,Big Bear Lake,3,2,10,True,False
+395,AIR26441505,92315,,Big Bear Lake,3,2,12,True,False
+396,AIR26568598,92315,,Big Bear Lake,3,2,7,False,False
+397,AIR26636567,92284,,Yucca Valley,3,2,8,True,True
+398,AIR26657947,92284,,Yucca Valley,3,2,10,True,True
+399,AIR26668356,92315,,Big Bear Lake,3,2,9,False,False
+400,AIR26668975,92315,,Big Bear Lake,3,2,7,True,False
+401,AIR26869243,92315,,Big Bear Lake,3,2,8,False,False
+402,AIR27042685,92315,,Big Bear Lake,4,3,14,False,False
+403,AIR27054872,92252,,Joshua Tree,4,2,8,True,False
+404,AIR27159211,92315,,Big Bear Lake,4,3,12,False,False
+405,AIR27208638,92315,,Big Bear Lake,3,3,8,True,True
+406,AIR2740053,92315,,Big Bear Lake,3,3,10,False,False
+407,AIR27431980,92315,,Big Bear Lake,3,2,7,False,False
+408,AIR27503814,92315,,Big Bear Lake,3,3,6,True,False
+409,AIR27530624,92252,,Joshua Tree,3,2,6,False,True
+410,AIR27531781,92252,,Joshua Tree,3,3,8,True,False
+411,AIR27557510,92314,,Big Bear City,3,2,6,True,False
+412,AIR2760821,92315,Switzerland Place,Big Bear Lake,4,3,8,True,False
+413,AIR27634479,92252,,Joshua Tree,3,2,6,True,True
+414,AIR2770668,92315,Wolf Road,Big Bear Lake,3,2,12,True,False
+415,AIR27730468,92252,,Joshua Tree,3,1,6,False,False
+416,AIR27734166,92314,,Big Bear City,3,2,9,False,False
+417,AIR27760550,92315,,Big Bear Lake,4,4,11,True,False
+418,AIR27784773,92284,,Yucca Valley,3,1,6,True,False
+419,AIR27853688,92314,,Big Bear City,3,2,10,False,False
+420,AIR27900881,92315,,Big Bear Lake,5,5,14,True,False
+421,AIR28033224,92252,,Joshua Tree,3,2,8,True,False
+422,AIR28105279,92315,,Big Bear Lake,5,5,15,True,False
+423,AIR28134475,92315,,Big Bear Lake,4,5,15,True,False
+424,AIR28181787,92314,,Big Bear City,4,2,11,False,False
+425,AIR28182527,92315,,Big Bear Lake,4,2,9,False,False
+426,AIR28223108,92252,,Joshua Tree,3,2,8,False,False
+427,AIR28285055,92315,,Big Bear Lake,3,3,12,False,False
+428,AIR28285304,92314,,Big Bear City,3,1,6,True,False
+429,AIR28318890,92315,,Big Bear Lake,4,3,10,True,False
+430,AIR28335260,92284,,Yucca Valley,4,2,8,True,True
+431,AIR28341216,92314,,Big Bear City,3,3,6,False,False
+432,AIR2835654,92315,Rockspray Court,Big Bear Lake,3,3,8,False,False
+433,AIR28358740,92252,,Joshua Tree,3,2,7,True,True
+434,AIR2838924,92252,Park Boulevard,Joshua Tree,3,2,7,True,True
+435,AIR28435957,92315,,Big Bear Lake,3,2,8,False,False
+436,AIR28514669,92252,,Joshua Tree,4,3,8,True,True
+437,AIR28520431,92315,,Big Bear Lake,5,4,14,False,False
+438,AIR28568770,92284,,Yucca Valley,4,2,10,False,False
+439,AIR28607882,92315,,Big Bear Lake,3,2,6,False,False
+440,AIR28638591,92252,,Joshua Tree,3,2,6,True,False
+441,AIR28693145,92252,,Joshua Tree,3,2,8,True,True
+442,AIR28718198,92315,,Big Bear Lake,3,2,8,False,False
+443,AIR28767933,92315,,Big Bear Lake,3,3,8,True,False
+444,AIR28834224,92315,,Big Bear Lake,3,2,12,False,False
+445,AIR28862662,92314,,Big Bear City,5,4,14,True,False
+446,AIR28890070,92252,,Joshua Tree,3,3,8,False,True
+447,AIR28960257,92315,,Big Bear Lake,4,2,7,False,False
+448,AIR28962995,92314,,Big Bear City,3,3,10,True,False
+449,AIR29055533,92315,,Big Bear Lake,3,3,9,True,False
+450,AIR29106956,92315,,Big Bear Lake,3,3,12,True,False
+451,AIR29149253,92252,,Joshua Tree,3,2,6,True,False
+452,AIR29152596,92315,,Big Bear Lake,3,2,8,False,False
+453,AIR29181453,92315,,Big Bear Lake,3,3,8,False,False
+454,AIR29259889,92315,,Big Bear Lake,3,4,12,False,False
+455,AIR29278041,92315,,Big Bear Lake,3,2,8,True,False
+456,AIR2934685,92315,Balsam Drive,Big Bear Lake,4,2,10,True,False
+457,AIR29416492,92252,,Joshua Tree,3,2,6,True,True
+458,AIR29416913,92315,,Big Bear Lake,4,6,10,False,False
+459,AIR29483862,92315,,Big Bear Lake,3,2,7,True,False
+460,AIR29489715,92315,,Big Bear Lake,3,3,9,True,False
+461,AIR29494983,92315,,Big Bear Lake,3,2,7,False,False
+462,AIR2950663,92315,Summit Boulevard,Big Bear Lake,3,2,8,False,False
+463,AIR29521386,92315,,Big Bear Lake,3,4,10,True,False
+464,AIR29521399,92315,,Big Bear Lake,4,3,12,False,False
+465,AIR29539946,92315,,Big Bear Lake,3,2,8,True,False
+466,AIR29543123,92315,,Big Bear Lake,3,2,8,False,False
+467,AIR29549556,92315,,Big Bear Lake,4,5,15,False,False
+468,AIR29587863,92252,,Joshua Tree,3,2,6,True,False
+469,AIR29589383,92252,,Joshua Tree,4,3,9,True,True
+470,AIR29626350,92315,,Big Bear Lake,3,1,8,True,False
+471,AIR29679031,92284,,Yucca Valley,4,4,8,False,False
+472,AIR29708560,92315,,Big Bear Lake,3,2,6,True,False
+473,AIR29756280,92315,,Big Bear Lake,3,3,8,True,False
+474,AIR29802006,92315,,Big Bear Lake,3,3,15,False,False
+475,AIR29830749,92315,,Big Bear Lake,4,3,15,False,False
+476,AIR29851372,92315,,Big Bear Lake,4,4,15,True,False
+477,AIR29897877,92314,,Big Bear City,3,4,10,False,False
+478,AIR30015793,92315,,Big Bear Lake,4,3,12,True,False
+479,AIR30019598,92315,,Big Bear Lake,3,2,8,True,False
+480,AIR30131073,92315,,Big Bear Lake,4,4,14,False,False
+481,AIR30145508,92315,,Big Bear Lake,3,3,9,True,False
+482,AIR30145518,92315,,Big Bear Lake,3,2,6,False,False
+483,AIR30145525,92315,,Big Bear Lake,3,2,8,True,False
+484,AIR30145531,92315,,Big Bear Lake,3,3,10,True,False
+485,AIR30145533,92315,,Big Bear Lake,3,2,7,False,False
+486,AIR30145544,92315,,Big Bear Lake,3,2,9,False,False
+487,AIR30145546,92315,,Big Bear Lake,4,2,10,True,False
+488,AIR30145547,92314,,Big Bear City,3,2,6,False,False
+489,AIR30145556,92315,,Big Bear Lake,3,3,8,False,False
+490,AIR30145601,92315,,Big Bear Lake,4,2,8,False,False
+491,AIR30145602,92315,,Big Bear Lake,3,2,7,True,False
+492,AIR30145604,92315,,Big Bear Lake,3,2,8,False,False
+493,AIR30201417,92252,,Joshua Tree,3,2,7,True,True
+494,AIR30319100,92315,,Big Bear Lake,4,3,8,True,False
+495,AIR30343969,92315,,Big Bear Lake,3,2,6,False,False
+496,AIR30349317,92252,,Joshua Tree,4,2,8,False,False
+497,AIR30354843,92315,,Big Bear Lake,3,2,6,False,False
+498,AIR30407007,92315,,Big Bear Lake,3,2,7,False,False
+499,AIR30448871,92315,,Big Bear Lake,3,1,6,True,False
+500,AIR30512235,92252,,Joshua Tree,3,2,6,False,True
+501,AIR30514475,92315,,Big Bear Lake,4,2,9,False,False
+502,AIR30530093,92315,,Big Bear Lake,3,3,10,True,False
+503,AIR30537601,92315,,Big Bear Lake,5,4,15,True,False
+504,AIR30675134,92252,,Joshua Tree,3,2,10,True,True
+505,AIR30677742,92314,,Big Bear City,3,2,7,True,False
+506,AIR30679333,92315,,Big Bear Lake,3,2,6,False,False
+507,AIR30679493,92315,,Big Bear Lake,4,4,15,True,False
+508,AIR30692949,92315,,Big Bear Lake,3,2,6,True,False
+509,AIR30717873,92315,,Big Bear Lake,3,3,7,True,False
+510,AIR30744844,92252,,Joshua Tree,4,3,12,True,True
+511,AIR30763903,92315,,Big Bear Lake,3,2,6,True,False
+512,AIR30792412,92315,,Big Bear Lake,3,2,6,True,False
+513,AIR30881441,92284,,Yucca Valley,3,2,6,True,False
+514,AIR30886430,92314,,Big Bear City,4,3,12,False,False
+515,AIR30936332,92252,,Joshua Tree,3,1,6,False,True
+516,AIR30962543,92314,,Big Bear City,3,2,5,False,False
+517,AIR30998195,92315,,Big Bear Lake,3,2,6,False,False
+518,AIR31056450,92252,,Joshua Tree,4,3,8,True,False
+519,AIR31058298,92252,,Joshua Tree,3,2,7,False,False
+520,AIR31084278,92315,,Big Bear Lake,3,2,8,False,False
+521,AIR31121936,92315,,Big Bear Lake,3,2,8,False,False
+522,AIR31175820,92252,,Joshua Tree,3,1,4,False,False
+523,AIR31191498,92284,,Yucca Valley,3,2,6,True,True
+524,AIR31193851,92314,,Big Bear City,4,2,10,True,False
+525,AIR31194867,92315,,Big Bear Lake,3,1,4,True,False
+526,AIR31202518,92314,,Big Bear City,3,3,6,False,False
+527,AIR31202634,92252,,Joshua Tree,3,2,8,True,True
+528,AIR31240072,92314,,Big Bear City,3,1,6,True,False
+529,AIR31255460,92252,,Joshua Tree,3,1,5,True,False
+530,AIR31262574,92315,,Big Bear Lake,3,2,7,False,False
+531,AIR31263152,92315,,Big Bear Lake,3,3,9,True,False
+532,AIR31296794,92315,,Big Bear Lake,4,4,10,False,False
+533,AIR313045,92315,Tanager Drive,Big Bear Lake,4,5,15,True,False
+534,AIR31337308,92252,,Joshua Tree,4,2,8,False,False
+535,AIR31341498,92315,,Big Bear Lake,4,4,15,True,False
+536,AIR31467374,92314,,Big Bear City,3,2,8,True,False
+537,AIR31495623,92284,,Yucca Valley,3,3,8,True,True
+538,AIR31546598,92314,,Big Bear City,4,3,8,True,False
+539,AIR3158415,92314,La Crescenta Drive,Big Bear City,3,2,8,True,False
+540,AIR31595540,92315,,Big Bear Lake,4,4,9,False,False
+541,AIR31642557,92284,,Yucca Valley,3,2,6,False,False
+542,AIR31716068,92315,,Big Bear Lake,5,5,15,True,False
+543,AIR31721957,92315,,Big Bear Lake,5,3,8,False,False
+544,AIR31763631,92315,,Big Bear Lake,4,6,15,False,False
+545,AIR31884589,92284,,Yucca Valley,3,4,10,True,True
+546,AIR31933988,92252,,Joshua Tree,3,2,6,False,True
+547,AIR32017620,92315,,Big Bear Lake,3,2,7,False,False
+548,AIR3210000,92315,,Big Bear Lake,3,3,8,False,False
+549,AIR32139270,92314,,Big Bear City,3,2,13,False,False
+550,AIR32171572,92315,,Big Bear Lake,3,2,8,False,False
+551,AIR32185269,92314,,Big Bear City,3,2,9,True,False
+552,AIR32388975,92252,,Joshua Tree,3,2,6,True,False
+553,AIR32439228,92252,,Joshua Tree,3,1,7,False,False
+554,AIR32449440,92315,,Big Bear Lake,4,3,9,False,False
+555,AIR32550030,92315,,Big Bear Lake,5,4,15,True,False
+556,AIR32571750,92315,,Big Bear Lake,5,4,13,True,False
+557,AIR32628779,92252,,Joshua Tree,4,2,8,True,False
+558,AIR32645410,92315,,Big Bear Lake,5,3,14,True,False
+559,AIR32670206,92315,,Big Bear Lake,3,2,8,False,True
+560,AIR32699838,92314,,Big Bear City,3,2,8,False,False
+561,AIR3272187,92315,Balsam Drive,Big Bear Lake,4,2,8,True,False
+562,AIR32724453,92315,,Big Bear Lake,3,1,6,False,False
+563,AIR32725441,92252,,Joshua Tree,3,1,6,True,False
+564,AIR32762447,92315,,Big Bear Lake,3,2,8,True,False
+565,AIR32769471,92315,,Big Bear Lake,5,3,12,True,False
+566,AIR32771094,92315,,Big Bear Lake,3,2,8,True,False
+567,AIR32772145,92252,,Joshua Tree,3,2,6,False,False
+568,AIR32841072,92315,,Big Bear Lake,4,3,11,True,False
+569,AIR32844520,92284,,Yucca Valley,5,2,12,False,True
+570,AIR32912934,92252,,Joshua Tree,4,2,8,True,True
+571,AIR32943268,92315,,Big Bear Lake,3,2,7,True,False
+572,AIR33095563,92314,,Big Bear City,4,2,10,False,False
+573,AIR33100094,92314,,Big Bear City,3,2,6,True,False
+574,AIR33218597,92315,,Big Bear Lake,3,2,5,False,False
+575,AIR33279054,92252,,Joshua Tree,3,1,6,False,False
+576,AIR33424543,92314,,Big Bear City,3,2,8,True,False
+577,AIR33472322,92252,,Joshua Tree,3,2,6,True,False
+578,AIR33529742,92315,,Big Bear Lake,3,3,8,True,False
+579,AIR33640083,92315,,Big Bear Lake,3,2,10,False,False
+580,AIR33678212,92314,,Big Bear City,3,2,6,False,False
+581,AIR3374385,92315,Lucerne Drive,Big Bear Lake,3,1,5,True,False
+582,AIR33779338,92252,,Joshua Tree,3,2,7,True,False
+583,AIR33804714,92315,,Big Bear Lake,4,2,8,False,False
+584,AIR33804716,92315,,Big Bear Lake,3,2,7,False,True
+585,AIR33852584,92315,,Big Bear Lake,5,5,12,True,False
+586,AIR33914758,92315,,Big Bear Lake,3,2,8,True,False
+587,AIR33932738,92315,,Big Bear Lake,3,2,8,True,False
+588,AIR33972989,92252,,Joshua Tree,3,2,6,True,False
+589,AIR34091101,92252,,Joshua Tree,3,2,6,True,True
+590,AIR34206244,92315,,Big Bear Lake,4,2,8,True,False
+591,AIR34228566,92315,,Big Bear Lake,4,4,10,True,False
+592,AIR34229576,92315,,Big Bear Lake,4,2,10,False,False
+593,AIR34263332,92252,,Joshua Tree,3,2,8,False,False
+594,AIR34263928,92315,,Big Bear Lake,4,3,10,False,False
+595,AIR34340575,92315,,Big Bear Lake,3,2,7,True,False
+596,AIR34546532,92315,,Big Bear Lake,3,2,5,False,False
+597,AIR34548122,92314,,Big Bear City,3,4,12,True,False
+598,AIR34784703,92314,,Big Bear City,3,3,8,False,False
+599,AIR34811266,92314,,Big Bear City,3,2,12,False,False
+600,AIR34906870,92315,,Big Bear Lake,3,2,10,True,False
+601,AIR34914796,92252,,Joshua Tree,3,2,6,False,False
+602,AIR34938980,92315,,Big Bear Lake,3,2,7,False,False
+603,AIR34943505,92314,,Big Bear City,3,3,10,False,False
+604,AIR35032874,92315,,Big Bear Lake,3,2,7,True,False
+605,AIR35092841,92314,,Big Bear City,3,2,6,False,False
+606,AIR3511262,92314,West Fairway Boulevard,Big Bear City,3,2,8,False,False
+607,AIR35137044,92314,,Big Bear City,3,2,8,False,False
+608,AIR35161526,92315,,Big Bear Lake,5,3,14,True,False
+609,AIR35238736,92314,,Big Bear City,3,2,10,False,False
+610,AIR35291294,92314,,Big Bear City,3,2,6,False,False
+611,AIR35380879,92315,,Big Bear Lake,3,2,6,True,False
+612,AIR35577610,92252,,Joshua Tree,4,2,8,True,False
+613,AIR35676751,92315,,Big Bear Lake,3,2,8,True,False
+614,AIR35802813,92314,,Big Bear City,5,4,12,False,False
+615,AIR3582281,92284,Roberts Road,Yucca Valley,5,2,10,True,False
+616,AIR35831339,92252,,Joshua Tree,4,2,8,False,False
+617,AIR35840139,92315,,Big Bear Lake,3,1,6,True,False
+618,AIR35840737,92315,,Big Bear Lake,3,3,6,False,False
+619,AIR35878996,92315,,Big Bear Lake,3,2,6,False,False
+620,AIR35904573,92284,,Yucca Valley,3,2,6,True,False
+621,AIR35907704,92315,,Big Bear Lake,4,4,10,False,False
+622,AIR35918724,92315,,Big Bear Lake,5,4,14,True,False
+623,AIR35950977,92315,,Big Bear Lake,3,3,13,True,False
+624,AIR35976750,92314,,Big Bear City,3,2,10,True,False
+625,AIR36064932,92314,,Big Bear City,4,2,10,False,False
+626,AIR36104526,92315,,Big Bear Lake,3,3,7,False,False
+627,AIR36171175,92315,,Big Bear Lake,4,4,15,False,False
+628,AIR36278459,92314,,Big Bear City,4,3,12,True,False
+629,AIR36317156,92315,,Big Bear Lake,3,2,9,False,False
+630,AIR36325337,92315,,Big Bear Lake,3,2,9,True,False
+631,AIR36424965,92252,,Joshua Tree,4,2,6,True,False
+632,AIR36478636,92284,,Yucca Valley,3,2,5,False,False
+633,AIR36556643,92284,,Yucca Valley,5,3,12,False,True
+634,AIR36664590,92315,,Big Bear Lake,3,2,8,True,False
+635,AIR36667537,92315,,Big Bear Lake,4,3,10,True,False
+636,AIR36672494,92284,,Yucca Valley,5,4,12,True,True
+637,AIR36728126,92252,,Joshua Tree,3,2,8,False,False
+638,AIR36768811,92314,,Big Bear City,3,3,10,False,False
+639,AIR36842977,92314,,Big Bear City,3,2,6,False,False
+640,AIR37009794,92314,,Big Bear City,3,3,8,False,False
+641,AIR37018321,92315,,Big Bear Lake,4,3,12,True,False
+642,AIR37053575,92314,,Big Bear City,3,3,12,False,False
+643,AIR37055682,92315,,Big Bear Lake,3,2,8,False,False
+644,AIR37090043,92314,,Big Bear City,3,3,6,False,False
+645,AIR37090582,92314,,Big Bear City,3,2,10,False,False
+646,AIR37126694,92315,,Big Bear Lake,3,2,9,True,False
+647,AIR37254760,92252,,Joshua Tree,3,2,6,True,False
+648,AIR37260457,92284,,Yucca Valley,3,2,6,False,False
+649,AIR37260994,92314,,Big Bear City,3,2,8,False,False
+650,AIR3731435,92315,Cherry Lane,Big Bear Lake,3,2,8,True,False
+651,AIR37392920,92315,,Big Bear Lake,3,2,6,True,False
+652,AIR37423484,92315,,Big Bear Lake,4,2,9,True,False
+653,AIR37465188,92315,,Big Bear Lake,3,3,9,True,False
+654,AIR37538312,92284,,Yucca Valley,3,2,6,True,False
+655,AIR3760220,92252,,Joshua Tree,3,2,6,False,False
+656,AIR37622456,92252,,Joshua Tree,3,3,4,False,False
+657,AIR37632027,92315,,Big Bear Lake,3,2,7,True,False
+658,AIR37680831,92314,,Big Bear City,4,2,8,False,False
+659,AIR37717545,92315,,Big Bear Lake,3,2,6,False,False
+660,AIR37754548,92252,,Joshua Tree,3,2,8,True,True
+661,AIR37828136,92315,,Big Bear Lake,3,2,5,False,False
+662,AIR37835798,92315,,Big Bear Lake,3,3,12,True,False
+663,AIR37836448,92315,,Big Bear Lake,3,3,7,True,False
+664,AIR37885770,92315,,Big Bear Lake,4,2,9,False,False
+665,AIR37896577,92315,,Big Bear Lake,3,2,8,False,False
+666,AIR37943206,92315,,Big Bear Lake,3,3,8,True,False
+667,AIR37947960,92252,,Joshua Tree,3,2,6,False,False
+668,AIR37973935,92252,,Joshua Tree,3,1,6,True,False
+669,AIR38063155,92314,,Big Bear City,3,1,8,True,False
+670,AIR38070781,92315,,Big Bear Lake,3,2,7,False,False
+671,AIR38157379,92284,,Yucca Valley,3,2,8,True,True
+672,AIR38186160,92315,,Big Bear Lake,3,2,10,False,False
+673,AIR38213580,92315,,Big Bear Lake,3,2,9,False,False
+674,AIR38262593,92315,,Big Bear Lake,3,2,8,True,False
+675,AIR38390330,92252,,Joshua Tree,3,2,6,False,True
+676,AIR38390992,92315,,Big Bear Lake,3,2,6,False,False
+677,AIR38408944,92314,,Big Bear City,3,2,8,False,False
+678,AIR38428847,92314,,Big Bear City,3,2,8,False,False
+679,AIR38434886,92314,,Big Bear City,3,2,8,True,False
+680,AIR38484924,92315,,Big Bear Lake,3,2,6,True,False
+681,AIR38552415,92314,,Big Bear City,3,1,6,False,False
+682,AIR38618797,92252,,Joshua Tree,4,2,7,True,True
+683,AIR38679109,92315,,Big Bear Lake,3,3,10,True,True
+684,AIR38901143,92315,,Big Bear Lake,4,3,15,False,False
+685,AIR38929178,92252,,Joshua Tree,4,3,8,True,True
+686,AIR38931617,92315,,Big Bear Lake,3,4,14,True,False
+687,AIR39002967,92314,,Big Bear City,4,2,10,False,False
+688,AIR39031497,92315,,Big Bear Lake,3,3,7,True,False
+689,AIR39088524,92252,,Joshua Tree,3,1,6,False,False
+690,AIR39111232,92315,,Big Bear Lake,4,3,14,False,False
+691,AIR39127477,92284,,Yucca Valley,3,2,6,False,False
+692,AIR39130848,92315,,Big Bear Lake,3,3,8,False,False
+693,AIR39200707,92284,,Yucca Valley,4,3,15,True,True
+694,AIR39224739,92252,,Joshua Tree,3,3,6,True,False
+695,AIR39272949,92284,,Yucca Valley,3,2,6,True,False
+696,AIR39276152,92315,,Big Bear Lake,5,4,14,True,False
+697,AIR39281901,92314,,Big Bear City,3,2,8,True,False
+698,AIR39339005,92315,,Big Bear Lake,3,3,10,True,False
+699,AIR39393084,92314,,Big Bear City,5,4,14,True,False
+700,AIR39396751,92315,,Big Bear Lake,3,3,10,True,True
+701,AIR39508963,92314,,Big Bear City,4,4,15,False,False
+702,AIR39525645,92252,,Joshua Tree,3,2,6,False,False
+703,AIR39559919,92314,,Big Bear City,4,3,10,True,False
+704,AIR39580697,92314,,Big Bear City,4,2,12,False,False
+705,AIR39582163,92252,,Joshua Tree,3,3,6,True,True
+706,AIR39607271,92315,,Big Bear Lake,4,3,10,True,False
+707,AIR39698164,92252,,Joshua Tree,3,2,8,True,False
+708,AIR39699192,92314,,Big Bear City,4,4,12,False,False
+709,AIR39699444,92315,,Big Bear Lake,5,5,15,True,False
+710,AIR39703856,92315,,Big Bear Lake,3,2,7,True,False
+711,AIR39720392,92284,,Yucca Valley,3,2,6,True,False
+712,AIR39723128,92315,,Big Bear Lake,3,2,6,True,False
+713,AIR39747073,92315,,Big Bear Lake,3,4,12,True,False
+714,AIR39776275,92252,,Joshua Tree,3,2,6,True,False
+715,AIR39795581,92315,,Big Bear Lake,3,2,7,True,False
+716,AIR39796476,92315,,Big Bear Lake,3,2,10,False,False
+717,AIR39796936,92315,,Big Bear Lake,3,2,7,True,False
+718,AIR39816684,92315,,Big Bear Lake,3,2,7,False,False
+719,AIR39846957,92315,,Big Bear Lake,3,2,7,True,True
+720,AIR39861872,92252,,Joshua Tree,3,2,8,True,True
+721,AIR39896415,92315,,Big Bear Lake,3,2,7,False,True
+722,AIR39921445,92315,,Big Bear Lake,3,2,7,False,False
+723,AIR39987933,92314,,Big Bear City,3,2,11,True,False
+724,AIR40063041,92252,,Joshua Tree,5,3,15,True,False
+725,AIR4006508,92315,Mountain Sky Drive,Big Bear Lake,3,2,8,True,False
+726,AIR4008052,92315,Tayles Point Road,Big Bear Lake,3,2,7,True,False
+727,AIR40116349,92314,,Big Bear City,4,3,9,True,False
+728,AIR40134242,92315,,Big Bear Lake,3,2,5,False,False
+729,AIR40134245,92315,,Big Bear Lake,4,3,12,True,False
+730,AIR40205778,92315,,Big Bear Lake,3,2,7,False,False
+731,AIR40209179,92315,,Big Bear Lake,4,3,15,True,False
+732,AIR40240095,92314,,Big Bear City,3,3,10,False,False
+733,AIR40241531,92314,,Big Bear City,4,2,9,True,False
+734,AIR4026018,92252,Granada Drive,Joshua Tree,3,2,6,True,False
+735,AIR40260366,92314,,Big Bear City,5,4,15,False,False
+736,AIR40287280,92314,,Big Bear City,3,2,8,True,False
+737,AIR40309286,92315,,Big Bear Lake,3,2,10,True,False
+738,AIR40375284,92315,,Big Bear Lake,3,2,8,True,False
+739,AIR40379955,92314,,Big Bear City,3,3,8,False,False
+740,AIR40491565,92315,,Big Bear Lake,3,1,6,False,False
+741,AIR40591599,92314,,Big Bear City,3,2,6,False,False
+742,AIR40593329,92315,,Big Bear Lake,3,3,9,True,False
+743,AIR40618460,92314,,Big Bear City,3,2,6,False,False
+744,AIR40634138,92314,,Big Bear City,5,4,11,True,False
+745,AIR40639926,92284,,Yucca Valley,3,2,8,True,True
+746,AIR40703861,92252,,Joshua Tree,3,2,6,True,True
+747,AIR40705272,92314,,Big Bear City,3,3,6,False,False
+748,AIR40706007,92315,,Big Bear Lake,3,2,8,False,False
+749,AIR40716764,92315,,Big Bear Lake,4,2,9,False,False
+750,AIR40783673,92252,,Joshua Tree,3,3,8,True,True
+751,AIR40809583,92315,,Big Bear Lake,3,2,8,False,False
+752,AIR4119166,92315,Waterview Drive,Big Bear Lake,3,3,12,True,False
+753,AIR4350998,92315,Tamarack Drive,Big Bear Lake,4,3,8,True,False
+754,AIR4384488,92315,Talmadge Road,Big Bear Lake,5,4,15,True,False
+755,AIR4427739,92315,Saint Anton Court,Big Bear Lake,5,3,15,True,True
+756,AIR4430533,92315,Willow Avenue,Big Bear Lake,3,1,6,True,False
+757,AIR4582783,92315,Butte Avenue,Big Bear Lake,3,3,10,True,False
+758,AIR4645690,92252,Sunny Sands Drive,Joshua Tree,3,2,6,False,False
+759,AIR4693222,92315,Switzerland Drive,Big Bear Lake,3,2,8,False,False
+760,AIR4816068,92314,La Crescenta Drive,Big Bear City,3,2,12,False,False
+761,AIR4824383,92315,Menlo Drive,Big Bear Lake,5,4,15,True,False
+762,AIR5104205,92314,Alpine Way,Big Bear City,3,2,6,False,False
+763,AIR5136088,92315,Waterview Drive,Big Bear Lake,5,4,14,False,False
+764,AIR5190667,92314,Luna Road,Big Bear City,3,2,7,False,False
+765,AIR523376,92315,,Big Bear Lake,3,3,10,False,False
+766,AIR5696718,92315,Thrush Court,Big Bear Lake,3,3,12,True,False
+767,AIR5969627,92315,Lakewood Lane,Big Bear Lake,3,3,13,False,False
+768,AIR6278973,92315,Cove Drive,Big Bear Lake,4,3,11,True,False
+769,AIR6279086,92314,Villa Grove Avenue,Big Bear City,3,4,10,False,False
+770,AIR6279113,92315,Mockingbird Drive,Big Bear Lake,4,3,15,True,False
+771,AIR6279125,92315,Tanager Drive,Big Bear Lake,4,3,11,False,False
+772,AIR6451877,92315,Ironwood Drive,Big Bear Lake,4,4,13,True,False
+773,AIR6481540,92252,Hollinger Road,Joshua Tree,3,2,7,False,True
+774,AIR6564037,92315,Menlo Drive,Big Bear Lake,5,4,11,True,False
+775,AIR6656446,92315,Comstock Lane,Big Bear Lake,3,3,7,True,False
+776,AIR666691,92315,Lintner Road,Big Bear Lake,3,3,8,True,False
+777,AIR6673353,92315,Comstock Lane,Big Bear Lake,4,2,6,True,False
+778,AIR6675761,92315,Sun Crest Court,Big Bear Lake,3,2,10,True,False
+779,AIR6690593,92315,North Eureka Drive,Big Bear Lake,4,3,15,True,False
+780,AIR6691376,92315,Saint Moritz Drive,Big Bear Lake,3,2,5,True,False
+781,AIR6704191,92315,Conklin Road,Big Bear Lake,3,3,9,True,False
+782,AIR6729193,92315,Lake Drive,Big Bear Lake,5,3,15,True,False
+783,AIR676164,92252,Base Line Road,Joshua Tree,3,2,4,True,False
+784,AIR6817370,92252,Vía Rocosa,Joshua Tree,4,2,12,False,False
+785,AIR6820440,92315,Big Bear Boulevard,Big Bear Lake,3,2,8,False,False
+786,AIR6822873,92315,Edgemoor Road,Big Bear Lake,3,2,6,False,False
+787,AIR7025746,92315,Golden West Place,Big Bear Lake,4,2,9,False,False
+788,AIR7072350,92315,Crystal Lake Road,Big Bear Lake,4,3,10,True,False
+789,AIR7072455,92315,Evergreen Drive,Big Bear Lake,3,2,6,True,False
+790,AIR7085152,92315,Crystal Lake Road,Big Bear Lake,3,3,12,False,False
+791,AIR7088097,92315,Monterey Street,Big Bear Lake,4,3,10,True,False
+792,AIR7088244,92314,Villa Grove Avenue,Big Bear City,4,3,10,False,False
+793,AIR7088715,92315,Thrush Court,Big Bear Lake,4,3,8,True,False
+794,AIR7106153,92315,Villa Grove Avenue,Big Bear Lake,3,2,6,False,False
+795,AIR7106885,92315,Ridgecrest Drive,Big Bear Lake,4,2,9,True,False
+796,AIR7107497,92315,Comstock Lane,Big Bear Lake,4,2,8,True,False
+797,AIR7107717,92315,Cardinal Drive,Big Bear Lake,4,2,13,True,False
+798,AIR7108197,92315,Yosemite Drive,Big Bear Lake,3,2,8,False,False
+799,AIR7108469,92314,Pinewood Drive,Big Bear City,3,3,10,True,False
+800,AIR7110624,92315,Pigeon Road,Big Bear Lake,4,3,9,True,False
+801,AIR7110802,92252,La Collina,Joshua Tree,4,3,9,True,True
+802,AIR7110933,92314,Cinderella Drive,Big Bear City,4,3,10,True,False
+803,AIR7111423,92315,Sheephorn Road,Big Bear Lake,3,3,7,False,False
+804,AIR7111950,92315,Deer Canyon Road,Big Bear Lake,4,4,12,True,False
+805,AIR7112225,92315,Saint Moritz Drive,Big Bear Lake,3,2,10,True,False
+806,AIR7112523,92315,Cougar Road,Big Bear Lake,3,3,9,True,False
+807,AIR7112575,92315,Balsam Drive,Big Bear Lake,3,2,7,True,False
+808,AIR7113291,92315,Haupstrasse Drive,Big Bear Lake,4,3,15,True,False
+809,AIR7113367,92315,Bow Canyon Road,Big Bear Lake,3,3,9,True,False
+810,AIR71684,92314,Rocky Point Drive,Big Bear City,3,2,6,False,False
+811,AIR7222037,92314,San Bernardino Avenue,Big Bear City,3,3,12,True,False
+812,AIR7346841,92284,,Yucca Valley,3,1,4,False,False
+813,AIR7397366,92284,,Yucca Valley,4,3,8,True,False
+814,AIR7437584,92315,Sheephorn Road,Big Bear Lake,4,3,14,False,False
+815,AIR7452014,92252,Oasis Drive,Joshua Tree,3,1,4,True,True
+816,AIR7494623,92315,Edgemoor Road,Big Bear Lake,4,3,10,True,False
+817,AIR7633842,92315,Brownie Lane,Big Bear Lake,3,3,6,False,False
+818,AIR7633998,92315,Brownie Lane,Big Bear Lake,3,3,6,False,False
+819,AIR7663261,92314,Alpenweg Drive,Big Bear City,4,4,15,True,False
+820,AIR7745543,92315,Oriole Drive,Big Bear Lake,3,2,8,True,False
+821,AIR7748388,92314,3rd Street,Big Bear City,3,3,10,False,False
+822,AIR7774724,92315,Club View Drive,Big Bear Lake,3,3,9,True,False
+823,AIR7884919,92252,Granada Drive,Joshua Tree,3,2,6,False,False
+824,AIR8070456,92252,Neva Road,Joshua Tree,3,2,6,False,True
+825,AIR808533,92252,Vía Rocosa,Joshua Tree,3,3,8,True,False
+826,AIR8087145,92315,Lagunita Lane,Big Bear Lake,3,2,6,False,False
+827,AIR8090935,92315,Georgia Street,Big Bear Lake,3,2,10,False,False
+828,AIR8102059,92315,Grizzly Court,Big Bear Lake,3,2,8,False,False
+829,AIR8107048,92315,Lakeview Drive,Big Bear Lake,3,3,8,True,False
+830,AIR8116725,92315,Olympic Drive,Big Bear Lake,4,4,13,False,False
+831,AIR8151970,92314,West Sherwood Boulevard,Big Bear City,3,3,7,False,False
+832,AIR8189914,92315,Moonridge Road,Big Bear Lake,3,2,6,False,False
+833,AIR8320969,92315,Thrush Drive,Big Bear Lake,3,2,8,False,True
+834,AIR835126,92314,West Country Club Boulevard,Big Bear City,3,2,10,False,False
+835,AIR8356115,92314,Mahogany Lane,Big Bear City,4,3,10,True,False
+836,AIR8453390,92315,Yosemite Drive,Big Bear Lake,3,2,8,True,False
+837,AIR8487685,92315,North Bay Drive,Big Bear Lake,3,3,8,True,False
+838,AIR8487701,92314,Sylvan Glen,Big Bear City,3,2,6,False,False
+839,AIR8506725,92314,Sheephorn Road,Big Bear City,3,3,10,True,False
+840,AIR865917,92284,Boulder View Drive,Yucca Valley,3,2,8,True,True
+841,AIR8680291,92284,,Yucca Valley,3,1,6,True,False
+842,AIR8687782,92314,Sequoia Drive,Big Bear City,3,2,7,False,False
+843,AIR8688155,92252,,Joshua Tree,3,1,8,False,False
+844,AIR8811512,92315,Glen Road,Big Bear Lake,4,3,8,True,True
+845,AIR8884708,92315,Mcwhinney Lane,Big Bear Lake,3,2,8,True,False
+846,AIR8968332,92315,Mountainaire Lane,Big Bear Lake,4,4,12,False,False
+847,AIR9030749,92315,Switzerland Drive,Big Bear Lake,3,2,7,False,False
+848,AIR9061128,92315,Switzerland Drive,Big Bear Lake,3,2,7,False,False
+849,AIR9063353,92315,Switzerland Drive,Big Bear Lake,3,2,8,False,False
+850,AIR9065030,92315,Switzerland Drive,Big Bear Lake,3,2,7,False,False
+851,AIR9134487,92314,Alpenweg Drive,Big Bear City,3,2,7,False,False
+852,AIR9187251,92315,Buffalo Court,Big Bear Lake,4,2,6,True,False
+853,AIR9232049,92315,Thrush Drive,Big Bear Lake,4,5,10,False,True
+854,AIR9241882,92315,Main Street,Big Bear Lake,3,2,6,False,False
+855,AIR9301003,92314,Villa Grove Avenue,Big Bear City,3,2,10,False,False
+856,AIR9329579,92314,North Eureka Drive,Big Bear City,4,3,10,False,False
+857,AIR9364892,92315,Thrush Drive,Big Bear Lake,3,2,8,False,True
+858,AIR9367766,92315,Thrush Drive,Big Bear Lake,3,3,7,False,True
+859,AIR9368784,92315,Thrush Drive,Big Bear Lake,3,2,6,False,True
+860,AIR9431746,92315,Primrose Drive,Big Bear Lake,3,2,8,True,False
+861,AIR9490331,92315,Thrush Drive,Big Bear Lake,3,3,7,False,True
+862,AIR9510558,92315,Thrush Drive,Big Bear Lake,3,2,8,True,True
+863,AIR9730242,92314,East Aeroplane Boulevard,Big Bear City,3,2,6,False,False
+864,AIR9810523,92315,Thrush Drive,Big Bear Lake,3,2,8,False,True
+865,AIR9810675,92315,Thrush Drive,Big Bear Lake,3,2,8,False,True
+866,AIR9810727,92315,Thrush Drive,Big Bear Lake,3,2,7,True,True
+867,AIR9944263,92315,Spruce Road,Big Bear Lake,4,4,15,True,False
+868,AIR9960008,92315,Waterview Drive,Big Bear Lake,4,2,12,False,False
+869,AIR9976790,92315,Starvation Flats Road,Big Bear Lake,4,4,14,True,False
+870,AIR16331162,92314,,Big Bear City,3,2,8,False,False
+871,AIR16547960,92315,,Big Bear Lake,3,2,8,True,True
+872,AIR16871276,92314,,Big Bear City,3,2,8,False,False
+873,AIR18719578,92284,,Yucca Valley,3,2,6,True,False
+874,AIR20154778,92252,,Joshua Tree,4,2,8,False,False
+875,AIR2969219,92314,San Anselmo Drive,Big Bear City,4,2,10,True,False
+876,AIR31024084,92315,,Big Bear Lake,4,3,15,True,False
+877,AIR32875561,92252,,Joshua Tree,3,2,10,True,True
+878,AIR33100526,92315,,Big Bear Lake,4,3,12,False,False
+879,AIR35516188,92315,,Big Bear Lake,4,6,14,True,False
+880,AIR40561189,92315,,Big Bear Lake,5,3,12,False,False
+881,AIR5884868,92252,Capilla Drive,Joshua Tree,3,2,6,False,False
+882,AIR7111724,92315,Saint Anton Court,Big Bear Lake,3,2,7,True,False
+883,AIR12002926,92284,,Yucca Valley,3,1,10,False,False
+884,AIR16871306,92315,,Big Bear Lake,3,3,8,True,False
+885,AIR17076148,92284,,Yucca Valley,3,2,6,False,False
+886,AIR1905375,92315,Santa Clara Boulevard,Big Bear Lake,3,2,10,True,False
+887,AIR19810988,92315,,Big Bear Lake,4,3,12,True,False
+888,AIR19810995,92314,,Big Bear City,3,2,8,False,False
+889,AIR20217872,92284,,Yucca Valley,4,3,10,True,True
+890,AIR20945215,92315,,Big Bear Lake,5,4,14,True,False
+891,AIR20945294,92315,,Big Bear Lake,4,3,14,True,False
+892,AIR20945321,92315,,Big Bear Lake,5,4,10,True,False
+893,AIR20945786,92315,,Big Bear Lake,4,3,14,True,False
+894,AIR20945802,92315,,Big Bear Lake,5,4,15,True,False
+895,AIR20946027,92315,,Big Bear Lake,4,4,12,True,False
+896,AIR23180537,92315,,Big Bear Lake,3,2,7,True,False
+897,AIR28050409,92314,,Big Bear City,3,1,8,False,False
+898,AIR28985176,92315,,Big Bear Lake,5,4,12,True,False
+899,AIR29413641,92315,,Big Bear Lake,3,2,8,False,False
+900,AIR29466509,92315,,Big Bear Lake,3,2,13,False,False
+901,AIR29596234,92315,,Big Bear Lake,4,3,12,True,False
+902,AIR29827880,92284,,Yucca Valley,3,2,6,True,False
+903,AIR30145638,92315,,Big Bear Lake,3,2,8,True,False
+904,AIR30289921,92315,,Big Bear Lake,3,2,6,True,True
+905,AIR31264411,92315,,Big Bear Lake,4,2,9,False,False
+906,AIR31742467,92315,,Big Bear Lake,5,6,15,True,True
+907,AIR31746670,92315,,Big Bear Lake,3,2,10,False,False
+908,AIR34565774,92284,,Yucca Valley,3,2,7,False,False
+909,AIR35682589,92315,,Big Bear Lake,3,1,6,True,False
+910,AIR37530899,92315,,Big Bear Lake,4,4,12,False,False
+911,AIR37687853,92284,,Yucca Valley,3,2,8,True,True
+912,AIR39272762,92284,,Yucca Valley,3,2,7,False,False
+913,AIR40291908,92314,,Big Bear City,3,2,8,True,False
+914,AIR40398144,92315,,Big Bear Lake,4,3,12,False,False
+915,AIR40398165,92314,,Big Bear City,5,3,12,True,False
+916,AIR6676107,92315,Park Avenue,Big Bear Lake,3,3,10,False,False
+917,AIR7107846,92315,Summit Boulevard,Big Bear Lake,3,3,10,False,False
+918,AIR8890260,92252,,Joshua Tree,4,2,15,False,False
+919,AIR11128865,92315,Catalina Road,Big Bear Lake,3,2,7,False,False
+920,AIR12851595,92252,Outpost Road,Joshua Tree,3,2,6,False,False
+921,AIR12950524,92252,Hillview Road,Joshua Tree,3,2,6,False,False
+922,AIR20693383,92315,,Big Bear Lake,3,2,7,True,False
+923,AIR20945844,92315,,Big Bear Lake,4,3,12,False,False
+924,AIR29757217,92315,,Big Bear Lake,4,3,10,False,False
+925,AIR34123218,92315,,Big Bear Lake,3,4,12,False,False
+926,AIR35791470,92315,,Big Bear Lake,3,2,6,False,False
+927,AIR38284898,92314,,Big Bear City,4,4,12,True,False
+928,AIR39797474,92314,,Big Bear City,3,3,10,False,False
+929,AIR5582051,92315,,Big Bear Lake,4,3,13,True,False
+930,AIR7110104,92315,Finch Drive,Big Bear Lake,3,3,8,False,False
+931,AIR9959855,92315,Peregrine Avenue,Big Bear Lake,5,4,11,True,False
+932,AIR12271204,92315,Ponderosa Drive,Big Bear Lake,3,3,8,True,False
+933,AIR14335226,92315,Snowmass Lane,Big Bear Lake,4,3,10,False,False
+934,AIR20184763,92315,,Big Bear Lake,4,3,11,True,False
+935,AIR21622054,92284,,Yucca Valley,3,2,6,False,False
+936,AIR22076957,92315,,Big Bear Lake,3,2,8,True,False
+937,AIR2323569,92284,Nelson Avenue,Yucca Valley,3,2,8,True,False
+938,AIR23764230,92315,,Big Bear Lake,4,4,12,True,False
+939,AIR24521285,92314,,Big Bear City,3,2,6,True,False
+940,AIR37217480,92315,,Big Bear Lake,3,3,8,True,False
+941,AIR39951026,92315,,Big Bear Lake,4,2,12,True,False
+942,AIR40038755,92252,,Joshua Tree,4,2,8,True,False
+943,AIR40396013,92314,,Big Bear City,3,2,8,False,False
+944,AIR40758845,92315,,Big Bear Lake,4,4,15,True,False
+945,AIR4332481,92252,Outpost Road,Joshua Tree,3,2,6,True,True
+946,AIR7109775,92315,Starlight Circle,Big Bear Lake,4,3,10,False,False
+947,AIR9996370,92314,Eagle Mountain Drive,Big Bear City,3,1,8,False,False
+948,AIR13574434,92314,Villa Grove Avenue,Big Bear City,3,2,8,True,False
+949,AIR15448878,92314,Constellation Drive,Big Bear City,3,2,7,False,False
+950,AIR15967110,92252,Twentynine Palms Highway,Joshua Tree,3,2,12,False,True
+951,AIR21850061,92315,,Big Bear Lake,4,3,15,False,False
+952,AIR21999897,92314,,Big Bear City,3,2,4,False,False
+953,AIR22341292,92315,,Big Bear Lake,3,4,14,True,False
+954,AIR22341325,92315,,Big Bear Lake,3,4,14,True,False
+955,AIR23753377,92315,,Big Bear Lake,3,2,6,False,False
+956,AIR24114788,92252,,Joshua Tree,3,2,10,False,False
+957,AIR24532989,92315,,Big Bear Lake,3,2,8,False,False
+958,AIR26083959,92315,,Big Bear Lake,4,2,11,True,False
+959,AIR29308753,92252,,Joshua Tree,4,3,8,True,True
+960,AIR29853090,92315,,Big Bear Lake,4,2,8,False,False
+961,AIR29996932,92315,,Big Bear Lake,4,2,8,True,False
+962,AIR31315237,92284,,Yucca Valley,3,2,6,True,False
+963,AIR31627509,92252,,Joshua Tree,5,3,15,False,False
+964,AIR31715778,92284,,Yucca Valley,4,2,8,True,True
+965,AIR33364491,92314,,Big Bear City,3,2,10,False,False
+966,AIR34121276,92315,,Big Bear Lake,3,2,8,False,False
+967,AIR35349792,92315,,Big Bear Lake,5,4,10,True,False
+968,AIR37057196,92315,,Big Bear Lake,3,2,6,True,False
+969,AIR38760265,92315,,Big Bear Lake,3,2,6,False,False
+970,AIR39531314,92315,,Big Bear Lake,3,2,6,True,False
+971,AIR40641951,92315,,Big Bear Lake,5,4,10,True,False
+972,AIR5268510,92252,Alta Loma Drive,Joshua Tree,4,2,15,False,False
+973,AIR6119510,92315,Paine Court,Big Bear Lake,4,4,12,True,True
+974,AIR16442359,92315,,Big Bear Lake,3,3,8,True,False
+975,AIR16521866,92252,,Joshua Tree,3,2,6,False,False
+976,AIR18471950,92315,,Big Bear Lake,3,2,6,True,False
+977,AIR18877499,92315,,Big Bear Lake,4,2,9,True,False
+978,AIR19923564,92315,,Big Bear Lake,3,2,10,True,False
+979,AIR21191489,92252,,Joshua Tree,3,2,6,True,False
+980,AIR24234518,92284,,Yucca Valley,3,2,6,True,False
+981,AIR26916313,92315,,Big Bear Lake,4,3,13,True,False
+982,AIR28306441,92315,,Big Bear Lake,3,3,12,False,False
+983,AIR30145586,92315,,Big Bear Lake,3,2,6,False,False
+984,AIR30145646,92315,,Big Bear Lake,3,3,10,False,False
+985,AIR3018731,92315,Chipmunk Lane,Big Bear Lake,3,3,10,False,False
+986,AIR31716073,92315,,Big Bear Lake,4,3,9,False,False
+987,AIR31743239,92315,,Big Bear Lake,3,2,8,True,False
+988,AIR33493771,92315,,Big Bear Lake,3,2,8,False,False
+989,AIR33836189,92315,,Big Bear Lake,3,2,8,True,False
+990,AIR39633265,92314,,Big Bear City,3,2,7,True,False
+991,AIR7106757,92315,Teton Drive,Big Bear Lake,4,3,13,True,False
+992,AIR7107277,92315,Haupstrasse Drive,Big Bear Lake,4,3,10,True,False
+993,AIR15939924,92315,Sunset Drive,Big Bear Lake,3,2,8,True,False
+994,AIR16194186,92284,,Yucca Valley,4,2,6,False,False
+995,AIR17037028,92315,,Big Bear Lake,3,2,8,True,False
+996,AIR17037455,92315,Windsong Place,Big Bear Lake,3,2,6,True,False
+997,AIR18465483,92315,Encino Road,Big Bear Lake,3,4,9,True,False
+998,AIR20217494,92315,,Big Bear Lake,4,3,11,True,False
+999,AIR21685884,92315,,Big Bear Lake,3,2,8,True,False
+1000,AIR21800945,92314,,Big Bear City,3,2,6,True,False
+1001,AIR22367316,92315,,Big Bear Lake,3,2,9,True,False
+1002,AIR22456838,92314,,Big Bear City,3,3,8,True,False
+1003,AIR23082087,92314,,Big Bear City,3,3,8,False,False
+1004,AIR24614962,92314,,Big Bear City,3,2,8,False,False
+1005,AIR25882184,92315,,Big Bear Lake,3,2,10,True,False
+1006,AIR27000756,92252,,Joshua Tree,3,2,6,False,False
+1007,AIR27220587,92315,,Big Bear Lake,3,2,9,True,False
+1008,AIR28014552,92314,,Big Bear City,3,2,6,False,False
+1009,AIR28536899,92315,,Big Bear Lake,3,2,7,False,False
+1010,AIR29617626,92315,,Big Bear Lake,4,3,12,True,False
+1011,AIR29772604,92252,,Joshua Tree,5,3,8,True,False
+1012,AIR29878870,92315,,Big Bear Lake,3,2,6,True,False
+1013,AIR32542513,92315,,Big Bear Lake,3,2,8,True,False
+1014,AIR32893138,92314,,Big Bear City,3,3,8,True,False
+1015,AIR35120791,92314,,Big Bear City,3,2,6,False,False
+1016,AIR36128333,92315,,Big Bear Lake,3,2,7,True,False
+1017,AIR36712612,92315,,Big Bear Lake,3,2,7,False,False
+1018,AIR36859401,92315,,Big Bear Lake,3,3,12,False,False
+1019,AIR37268497,92315,,Big Bear Lake,3,3,10,True,False
+1020,AIR38471502,92315,,Big Bear Lake,4,3,12,True,False
+1021,AIR38684680,92315,,Big Bear Lake,3,3,9,True,False
+1022,AIR39376455,92315,,Big Bear Lake,4,2,8,True,False
+1023,AIR39631248,92315,,Big Bear Lake,3,3,11,False,False
+1024,AIR39947612,92315,,Big Bear Lake,3,3,13,True,False
+1025,AIR40374221,92315,,Big Bear Lake,3,2,9,True,False
+1026,AIR4469748,92315,Menlo Drive,Big Bear Lake,4,4,11,False,False
+1027,AIR7112372,92315,Alameda Road,Big Bear Lake,4,5,15,True,False
+1028,AIR1304719,92315,Sand Canyon Court,Big Bear Lake,4,3,14,True,False
+1029,AIR14124469,92315,Olympic Drive,Big Bear Lake,3,3,6,False,False
+1030,AIR17791132,92315,,Big Bear Lake,3,3,6,False,False
+1031,AIR18175790,92315,,Big Bear Lake,4,2,10,False,False
+1032,AIR18477803,92315,,Big Bear Lake,3,2,7,True,False
+1033,AIR19314313,92315,,Big Bear Lake,4,3,11,False,False
+1034,AIR21477072,92284,,Yucca Valley,4,4,10,True,True
+1035,AIR22086844,92315,,Big Bear Lake,3,1,7,True,False
+1036,AIR22296949,92315,,Big Bear Lake,3,2,8,False,False
+1037,AIR24224322,92315,,Big Bear Lake,3,2,7,False,False
+1038,AIR26503735,92252,,Joshua Tree,3,2,6,False,False
+1039,AIR28415322,92284,,Yucca Valley,4,2,10,True,False
+1040,AIR30089390,92315,,Big Bear Lake,3,3,6,False,False
+1041,AIR33187162,92284,,Yucca Valley,3,2,8,False,False
+1042,AIR3720864,92315,Knickerbocker Road,Big Bear Lake,3,2,6,True,False
+1043,AIR38611988,92315,,Big Bear Lake,3,2,8,True,False
+1044,AIR39585552,92315,,Big Bear Lake,3,2,8,True,False
+1045,AIR40235971,92315,,Big Bear Lake,4,4,14,False,False
+1046,AIR40635089,92315,,Big Bear Lake,3,2,10,False,False
+1047,AIR40766311,92252,,Joshua Tree,3,2,6,True,False
+1048,AIR4936417,92252,Sunset Road,Joshua Tree,3,2,10,False,False
+1049,AIR6276211,92315,Encino Road,Big Bear Lake,4,3,10,True,False
+1050,AIR7110012,92315,Menlo Drive,Big Bear Lake,3,2,7,True,False
+1051,AIR11098028,92315,Starvation Flats Road,Big Bear Lake,3,2,8,True,True
+1052,AIR11098161,92315,Starvation Flats Road,Big Bear Lake,3,2,8,True,True
+1053,AIR12873603,92315,Butte Avenue,Big Bear Lake,3,2,8,True,False
+1054,AIR17000486,92315,,Big Bear Lake,3,2,7,True,False
+1055,AIR17531385,92284,,Yucca Valley,3,2,8,True,False
+1056,AIR18666697,92314,,Big Bear City,3,2,8,False,False
+1057,AIR19191631,92315,Switzerland Drive,Big Bear Lake,3,3,9,True,False
+1058,AIR19753234,92315,Lagunita Lane,Big Bear Lake,4,4,15,True,False
+1059,AIR20945269,92315,,Big Bear Lake,3,2,8,True,False
+1060,AIR21865712,92315,,Big Bear Lake,3,2,8,False,False
+1061,AIR21966108,92315,,Big Bear Lake,3,3,10,False,False
+1062,AIR22120261,92315,,Big Bear Lake,3,2,5,True,False
+1063,AIR22195889,92315,,Big Bear Lake,3,3,7,True,False
+1064,AIR22281606,92315,,Big Bear Lake,3,3,12,False,False
+1065,AIR22324989,92315,,Big Bear Lake,3,3,8,False,False
+1066,AIR22520571,92314,,Big Bear City,4,4,12,True,False
+1067,AIR23257572,92315,,Big Bear Lake,3,2,6,True,False
+1068,AIR23764335,92315,,Big Bear Lake,3,3,11,False,False
+1069,AIR28807211,92315,,Big Bear Lake,3,2,8,False,False
+1070,AIR29128015,92314,,Big Bear City,5,3,14,True,False
+1071,AIR29413674,92315,,Big Bear Lake,3,2,8,True,True
+1072,AIR29761217,92315,,Big Bear Lake,3,2,8,True,True
+1073,AIR29855669,92315,,Big Bear Lake,4,3,13,True,False
+1074,AIR29945557,92315,,Big Bear Lake,3,2,7,False,False
+1075,AIR30356085,92315,,Big Bear Lake,3,2,6,True,False
+1076,AIR30356559,92315,,Big Bear Lake,3,2,9,False,False
+1077,AIR30771188,92315,,Big Bear Lake,3,2,8,False,False
+1078,AIR31084830,92252,,Joshua Tree,3,2,6,False,False
+1079,AIR32503597,92315,,Big Bear Lake,3,3,10,False,False
+1080,AIR35609149,92284,,Yucca Valley,3,2,6,False,False
+1081,AIR37358633,92314,,Big Bear City,3,2,8,False,False
+1082,AIR37862001,92315,,Big Bear Lake,4,2,8,False,False
+1083,AIR38295475,92284,,Yucca Valley,3,2,11,False,True
+1084,AIR6676299,92315,Sheephorn Road,Big Bear Lake,3,2,7,False,False
+1085,AIR7087923,92315,Yosemite Drive,Big Bear Lake,3,3,8,True,False
+1086,AIR8918143,92315,Big Bear Boulevard,Big Bear Lake,3,2,6,False,True
+1087,AIR8918146,92315,Big Bear Boulevard,Big Bear Lake,4,2,14,False,True
+1088,AIR8918156,92315,,Big Bear Lake,3,2,14,False,True
+1089,AIR8918159,92315,Big Bear Boulevard,Big Bear Lake,3,1,8,False,True
+1090,AIR9613401,92252,Avenue Tortuga,Joshua Tree,4,2,12,True,True
+1091,AIR9647171,92314,Sheephorn Road,Big Bear City,3,2,6,True,False
+1092,AIR17248972,92315,,Big Bear Lake,4,3,8,False,False
+1093,AIR19810981,92315,,Big Bear Lake,3,2,6,False,False
+1094,AIR22270180,92315,,Big Bear Lake,3,2,8,False,False
+1095,AIR25183981,92315,,Big Bear Lake,3,3,8,False,False
+1096,AIR29876211,92314,,Big Bear City,3,3,10,True,False
+1097,AIR30250707,92252,,Joshua Tree,3,2,8,False,False
+1098,AIR31025085,92315,,Big Bear Lake,4,4,15,False,False
+1099,AIR32723652,92314,,Big Bear City,3,2,6,False,False
+1100,AIR34346224,92252,,Joshua Tree,3,2,8,False,False
+1101,AIR34906851,92315,,Big Bear Lake,5,5,15,True,False
+1102,AIR35290176,92315,,Big Bear Lake,3,3,7,True,False
+1103,AIR38236148,92315,,Big Bear Lake,3,2,10,False,False
+1104,AIR39483691,92252,,Joshua Tree,3,2,12,True,True
+1105,AIR39779403,92315,,Big Bear Lake,3,3,8,True,False
+1106,AIR40070333,92252,,Joshua Tree,3,2,7,False,False
+1107,AIR40310134,92315,,Big Bear Lake,3,3,9,False,False
+1108,AIR40533812,92284,,Yucca Valley,3,2,6,False,False
+1109,AIR40681570,92315,,Big Bear Lake,5,5,15,False,False
+1110,AIR4224656,92252,,Joshua Tree,3,2,8,False,False
+1111,AIR5019232,92315,Simonds Drive,Big Bear Lake,5,4,8,True,False
+1112,AIR7633581,92315,Bluebird Court,Big Bear Lake,3,2,8,False,False
+1113,AIR8214285,92314,2nd Lane,Big Bear City,3,1,7,False,False
+1114,AIR9329648,92314,,Big Bear City,4,3,8,False,False
+1115,AIR982328,92315,Avalon Road,Big Bear Lake,3,3,10,False,False
+1116,AIR14124172,92315,Vista Lane,Big Bear Lake,5,2,10,True,False
+1117,AIR14727970,92314,,Big Bear City,4,5,15,True,False
+1118,AIR16871314,92315,,Big Bear Lake,5,2,12,False,False
+1119,AIR20217242,92315,,Big Bear Lake,4,4,15,True,False
+1120,AIR20773800,92315,,Big Bear Lake,4,3,14,True,False
+1121,AIR20847409,92315,,Big Bear Lake,4,3,12,False,False
+1122,AIR23323803,92252,,Joshua Tree,3,1,7,False,False
+1123,AIR25172848,92315,,Big Bear Lake,3,2,8,True,False
+1124,AIR25328102,92252,,Joshua Tree,3,2,6,False,False
+1125,AIR30747283,92314,,Big Bear City,3,2,8,False,False
+1126,AIR34250381,92315,,Big Bear Lake,3,2,10,True,False
+1127,AIR34315354,92252,,Joshua Tree,3,2,8,True,False
+1128,AIR39085344,92284,,Yucca Valley,3,1,7,False,False
+1129,AIR39222981,92314,,Big Bear City,4,5,14,True,False
+1130,AIR39339963,92315,,Big Bear Lake,3,3,9,True,False
+1131,AIR39448905,92315,,Big Bear Lake,4,3,11,False,False
+1132,AIR40036407,92315,,Big Bear Lake,3,3,8,False,False
+1133,AIR40203532,92314,,Big Bear City,3,3,12,True,False
+1134,AIR16401808,92315,,Big Bear Lake,3,3,9,True,True
+1135,AIR17402800,92315,,Big Bear Lake,5,3,13,True,False
+1136,AIR17402804,92315,,Big Bear Lake,3,2,8,True,False
+1137,AIR17402811,92314,,Big Bear City,3,2,9,False,False
+1138,AIR17402813,92315,,Big Bear Lake,4,4,12,True,False
+1139,AIR17402838,92315,,Big Bear Lake,5,5,15,True,False
+1140,AIR17402846,92315,,Big Bear Lake,4,3,10,True,False
+1141,AIR17402876,92314,,Big Bear City,4,4,12,False,False
+1142,AIR17402894,92315,,Big Bear Lake,3,4,8,True,True
+1143,AIR17402916,92315,,Big Bear Lake,3,2,7,True,False
+1144,AIR17402934,92315,,Big Bear Lake,3,2,6,True,False
+1145,AIR17402959,92315,,Big Bear Lake,4,2,10,False,False
+1146,AIR17402973,92315,,Big Bear Lake,3,2,10,False,False
+1147,AIR17402981,92315,,Big Bear Lake,4,3,10,False,False
+1148,AIR17403010,92315,,Big Bear Lake,3,3,8,False,False
+1149,AIR17403024,92315,,Big Bear Lake,4,3,10,False,False
+1150,AIR17403030,92315,,Big Bear Lake,3,2,7,True,False
+1151,AIR17403043,92314,,Big Bear City,3,2,9,False,False
+1152,AIR17403086,92315,,Big Bear Lake,3,3,8,False,False
+1153,AIR17403092,92315,,Big Bear Lake,3,2,8,True,False
+1154,AIR17403132,92315,,Big Bear Lake,3,2,6,True,False
+1155,AIR17403144,92315,,Big Bear Lake,3,3,12,True,False
+1156,AIR17403209,92315,,Big Bear Lake,3,2,8,False,False
+1157,AIR17403215,92315,,Big Bear Lake,3,3,8,True,False
+1158,AIR17882098,92252,,Joshua Tree,4,2,12,True,False
+1159,AIR18917697,92314,Los Angeles Avenue,Big Bear City,3,3,7,True,False
+1160,AIR19069477,92284,,Yucca Valley,3,2,8,False,True
+1161,AIR19703040,92315,,Big Bear Lake,3,2,9,False,False
+1162,AIR20916331,92315,,Big Bear Lake,3,4,11,True,False
+1163,AIR21369371,92314,,Big Bear City,5,4,14,True,False
+1164,AIR21883183,92315,,Big Bear Lake,3,2,7,False,False
+1165,AIR23510478,92315,,Big Bear Lake,3,2,6,True,False
+1166,AIR24892787,92314,,Big Bear City,3,3,10,True,False
+1167,AIR25974417,92284,,Yucca Valley,4,3,15,False,False
+1168,AIR27703492,92315,,Big Bear Lake,5,4,15,True,False
+1169,AIR29878865,92315,,Big Bear Lake,3,2,7,True,False
+1170,AIR31861021,92315,,Big Bear Lake,3,2,6,True,False
+1171,AIR33163424,92314,,Big Bear City,3,3,8,True,False
+1172,AIR34906884,92315,,Big Bear Lake,3,2,6,True,False
+1173,AIR35387103,92315,,Big Bear Lake,3,2,10,True,False
+1174,AIR35866642,92314,,Big Bear City,3,2,6,False,False
+1175,AIR36885524,92315,,Big Bear Lake,4,5,12,False,False
+1176,AIR4054280,92315,Lakewood Lane,Big Bear Lake,3,3,11,True,False
+1177,AIR9032345,92315,Ponderosa Drive,Big Bear Lake,4,3,9,True,False
+1178,AIR9578059,92314,Alameda Road,Big Bear City,4,2,8,True,False
+1179,AIR14840355,92315,Gold Rush Drive,Big Bear Lake,5,7,12,False,False
+1180,AIR16603525,92314,,Big Bear City,4,3,8,False,False
+1181,AIR17402969,92315,,Big Bear Lake,3,2,8,True,False
+1182,AIR20958392,92314,,Big Bear City,3,2,10,False,False
+1183,AIR21721621,92315,,Big Bear Lake,3,2,9,True,False
+1184,AIR21782308,92315,,Big Bear Lake,3,3,12,False,False
+1185,AIR24439365,92315,,Big Bear Lake,4,4,8,False,False
+1186,AIR2627213,92314,East Sherwood Boulevard,Big Bear City,3,2,8,True,False
+1187,AIR26764499,92315,,Big Bear Lake,3,2,6,True,False
+1188,AIR30145587,92315,,Big Bear Lake,3,2,8,True,False
+1189,AIR30466704,92315,,Big Bear Lake,3,2,6,False,False
+1190,AIR31716075,92315,,Big Bear Lake,3,2,5,False,False
+1191,AIR37943379,92315,,Big Bear Lake,3,1,12,False,False
+1192,AIR38070425,92315,,Big Bear Lake,3,3,11,False,False
+1193,AIR39749193,92252,,Joshua Tree,3,3,10,False,True
+1194,AIR40642577,92252,,Joshua Tree,3,2,6,True,True
+1195,AIR4316721,92315,Shasta Road,Big Bear Lake,5,3,12,True,False
+1196,AIR7114807,92315,,Big Bear Lake,3,2,7,False,False
+1197,AIR7436129,92315,Crater Lake Road,Big Bear Lake,3,3,11,True,False
+1198,AIR8117851,92315,,Big Bear Lake,3,4,9,False,False
+1199,AIR94995,92315,Oriole Drive,Big Bear Lake,3,2,8,False,False
+1200,AIR16334463,92315,,Big Bear Lake,3,3,8,False,False
+1201,AIR17403224,92315,,Big Bear Lake,5,5,15,True,False
+1202,AIR19789439,92315,,Big Bear Lake,3,3,7,False,False
+1203,AIR22945334,92315,,Big Bear Lake,4,2,9,True,False
+1204,AIR2547590,92315,Waterview Drive,Big Bear Lake,3,2,8,True,False
+1205,AIR25866733,92315,,Big Bear Lake,3,2,5,False,False
+1206,AIR27196719,92315,,Big Bear Lake,3,3,10,True,False
+1207,AIR27483089,92314,,Big Bear City,3,3,8,True,False
+1208,AIR27658794,92315,,Big Bear Lake,3,2,7,True,False
+1209,AIR28490053,92315,,Big Bear Lake,3,3,8,False,False
+1210,AIR28814854,92252,,Joshua Tree,4,2,8,False,False
+1211,AIR30145485,92315,,Big Bear Lake,3,3,7,False,False
+1212,AIR31716064,92315,,Big Bear Lake,3,3,8,True,False
+1213,AIR37718701,92314,,Big Bear City,3,2,8,False,False
+1214,AIR37831253,92315,,Big Bear Lake,4,2,11,True,False
+1215,AIR38522889,92315,,Big Bear Lake,3,2,6,True,False
+1216,AIR39652873,92315,,Big Bear Lake,3,1,5,False,False
+1217,AIR40156399,92315,,Big Bear Lake,3,2,6,False,False
+1218,AIR40298260,92315,,Big Bear Lake,5,5,15,True,False
+1219,AIR40310113,92315,,Big Bear Lake,3,2,7,True,True
+1220,AIR7073177,92315,Buffalo Court,Big Bear Lake,3,2,5,False,False
+1221,AIR7106268,92315,Lake Drive,Big Bear Lake,5,2,10,False,False
+1222,AIR7108963,92315,Starlight Circle,Big Bear Lake,4,4,13,False,False
+1223,AIR7109197,92315,Ironwood Drive,Big Bear Lake,4,4,15,True,False
+1224,AIR7110682,92315,Moonridge Road,Big Bear Lake,3,2,6,True,False
+1225,AIR7110741,92314,,Big Bear City,4,2,11,True,False
+1226,AIR9199693,92315,Catalina Road,Big Bear Lake,3,2,8,True,False
+1227,AIR9451409,92315,Snake Dance,Big Bear Lake,3,2,8,False,False
+1228,AIR9986505,92252,Rocking Chair Road,Joshua Tree,4,2,10,True,False
+1229,AIR10000347,92315,Cienega Road,Big Bear Lake,3,2,10,False,False
+1230,AIR14479933,92315,Mountain Lake Road,Big Bear Lake,3,2,6,False,False
+1231,AIR14479968,92315,,Big Bear Lake,3,2,6,False,False
+1232,AIR14936651,92314,Tuolumne Road,Big Bear City,3,2,8,False,False
+1233,AIR16489534,92315,,Big Bear Lake,3,3,8,True,False
+1234,AIR16871297,92315,,Big Bear Lake,4,2,9,True,False
+1235,AIR16959650,92315,,Big Bear Lake,4,4,10,True,False
+1236,AIR2032159,92315,North Bay Drive,Big Bear Lake,3,3,8,True,False
+1237,AIR22420142,92315,,Big Bear Lake,3,1,6,True,False
+1238,AIR22485690,92315,,Big Bear Lake,4,2,12,False,False
+1239,AIR22700889,92314,,Big Bear City,3,2,9,False,False
+1240,AIR22863028,92315,,Big Bear Lake,3,3,12,False,False
+1241,AIR22926946,92314,,Big Bear City,4,4,12,True,False
+1242,AIR28045893,92315,,Big Bear Lake,3,2,12,True,False
+1243,AIR30047013,92315,,Big Bear Lake,3,2,6,False,False
+1244,AIR30145540,92314,,Big Bear City,3,2,8,False,False
+1245,AIR30145607,92315,,Big Bear Lake,3,2,6,False,False
+1246,AIR30148380,92315,,Big Bear Lake,3,2,6,False,False
+1247,AIR31060389,92314,,Big Bear City,3,2,7,False,False
+1248,AIR37999022,92314,,Big Bear City,3,2,8,False,False
+1249,AIR39250268,92315,,Big Bear Lake,3,3,8,True,True
+1250,AIR39393288,92252,,Joshua Tree,4,4,8,True,False
+1251,AIR39437678,92314,,Big Bear City,3,3,10,False,False
+1252,AIR5884470,92314,East Country Club Boulevard,Big Bear City,3,2,10,False,False
+1253,AIR6326589,92315,Colusa Lane,Big Bear Lake,3,2,7,False,False
+1254,AIR7105841,92315,Mockingbird Drive,Big Bear Lake,5,4,15,True,False
+1255,AIR9813773,92315,Moonridge Road,Big Bear Lake,4,4,14,False,False
+1256,AIR14470468,92315,,Big Bear Lake,3,2,6,False,False
+1257,AIR25012943,92315,,Big Bear Lake,4,4,12,True,False
+1258,AIR27247738,92315,,Big Bear Lake,3,2,8,True,False
+1259,AIR27719521,92315,,Big Bear Lake,3,2,9,False,False
+1260,AIR27962131,92315,,Big Bear Lake,3,2,8,False,False
+1261,AIR28866453,92315,,Big Bear Lake,3,3,8,True,False
+1262,AIR33324566,92314,,Big Bear City,3,3,8,True,False
+1263,AIR33338871,92252,,Joshua Tree,3,2,6,False,False
+1264,AIR33709819,92315,,Big Bear Lake,3,2,7,True,False
+1265,AIR34176750,92314,,Big Bear City,4,4,9,False,False
+1266,AIR34598171,92315,,Big Bear Lake,4,2,9,True,False
+1267,AIR38325051,92315,,Big Bear Lake,5,3,12,False,False
+1268,AIR39233214,92315,,Big Bear Lake,4,3,12,True,False
+1269,AIR39949856,92315,,Big Bear Lake,3,2,10,True,False
+1270,AIR40202409,92314,,Big Bear City,3,2,8,True,False
+1271,AIR4825287,92315,Tehama Drive,Big Bear Lake,3,2,9,False,False
+1272,AIR5031391,92314,,Big Bear City,3,2,6,False,False
+1273,AIR5046475,92314,,Big Bear City,3,2,8,True,False
+1274,AIR5383383,92314,Minton Avenue,Big Bear City,3,2,10,True,False
+1275,AIR7714755,92315,Finch Drive,Big Bear Lake,4,5,15,True,False
+1276,AIR9837705,92314,Midway Boulevard,Big Bear City,3,3,10,False,False
+1277,AIR9863805,92315,,Big Bear Lake,3,2,10,False,False
+1278,AIR13953777,92315,Stony Creek Road,Big Bear Lake,3,3,8,True,False
+1279,AIR15220587,92315,,Big Bear Lake,3,3,8,False,False
+1280,AIR15508163,92314,Butte Avenue,Big Bear City,4,3,10,False,False
+1281,AIR15840244,92315,Primrose Drive,Big Bear Lake,3,2,6,True,False
+1282,AIR1656868,92315,Club View Drive,Big Bear Lake,3,2,8,False,False
+1283,AIR17607465,92315,,Big Bear Lake,5,4,10,False,False
+1284,AIR17805706,92315,,Big Bear Lake,5,4,14,True,False
+1285,AIR17988195,92252,,Joshua Tree,4,2,10,False,True
+1286,AIR21968155,92315,,Big Bear Lake,4,2,12,False,False
+1287,AIR22755663,92314,,Big Bear City,3,2,10,False,False
+1288,AIR24711094,92284,,Yucca Valley,3,2,8,False,False
+1289,AIR24806686,92252,,Joshua Tree,3,1,7,False,False
+1290,AIR25172809,92315,,Big Bear Lake,3,2,8,False,False
+1291,AIR27135337,92314,,Big Bear City,3,2,8,False,False
+1292,AIR27202357,92315,,Big Bear Lake,3,3,12,False,False
+1293,AIR28304044,92315,,Big Bear Lake,3,2,6,False,False
+1294,AIR28518637,92315,,Big Bear Lake,3,2,9,False,False
+1295,AIR29521402,92315,,Big Bear Lake,3,2,12,False,False
+1296,AIR29856363,92315,,Big Bear Lake,3,2,8,True,False
+1297,AIR29902756,92314,,Big Bear City,3,2,8,False,False
+1298,AIR30145521,92315,,Big Bear Lake,4,5,8,False,False
+1299,AIR30145526,92315,,Big Bear Lake,3,2,8,False,False
+1300,AIR30145545,92315,,Big Bear Lake,3,2,6,False,False
+1301,AIR30145566,92315,,Big Bear Lake,3,2,6,False,False
+1302,AIR30145603,92315,,Big Bear Lake,3,2,8,False,False
+1303,AIR30145615,92315,,Big Bear Lake,3,2,6,False,False
+1304,AIR30145622,92315,,Big Bear Lake,4,3,9,True,False
+1305,AIR30565169,92314,,Big Bear City,3,2,6,False,False
+1306,AIR31463373,92284,,Yucca Valley,3,2,8,False,True
+1307,AIR31993093,92315,,Big Bear Lake,5,3,15,True,False
+1308,AIR32614196,92315,,Big Bear Lake,5,4,15,False,False
+1309,AIR34480459,92314,,Big Bear City,3,2,8,False,False
+1310,AIR38460944,92315,,Big Bear Lake,3,2,8,False,False
+1311,AIR39293861,92315,,Big Bear Lake,3,2,8,False,False
+1312,AIR4767264,92315,Alta Vista Avenue,Big Bear Lake,3,2,11,False,False
+1313,AIR5944192,92314,Grenfall Lane,Big Bear City,3,2,10,False,False
+1314,AIR6730047,92315,Cove Drive,Big Bear Lake,5,3,10,True,False
+1315,AIR7109308,92315,Winterset Court,Big Bear Lake,5,3,13,True,False
+1316,AIR7618345,92315,Sheephorn Road,Big Bear Lake,3,2,9,False,False
+1317,AIR10211502,92315,San Pasqual Drive,Big Bear Lake,3,3,9,True,False
+1318,AIR11612245,92315,Forest Road,Big Bear Lake,4,3,12,True,False
+1319,AIR14200336,92315,Lake Drive,Big Bear Lake,3,2,7,True,False
+1320,AIR14200600,92315,Switzerland Place,Big Bear Lake,3,3,10,False,False
+1321,AIR14252810,92314,Sheephorn Road,Big Bear City,4,3,14,True,False
+1322,AIR16160775,92252,,Joshua Tree,3,2,6,True,False
+1323,AIR17402903,92314,,Big Bear City,5,4,11,True,False
+1324,AIR17403153,92315,,Big Bear Lake,3,3,7,True,False
+1325,AIR17607611,92315,,Big Bear Lake,5,4,10,True,False
+1326,AIR18430036,92314,,Big Bear City,3,1,10,False,False
+1327,AIR20184734,92315,,Big Bear Lake,4,3,12,True,False
+1328,AIR20362517,92315,,Big Bear Lake,3,3,8,True,False
+1329,AIR20410589,92314,,Big Bear City,3,3,7,False,False
+1330,AIR20996111,92315,,Big Bear Lake,3,3,9,False,False
+1331,AIR21080094,92315,,Big Bear Lake,3,2,8,False,False
+1332,AIR21633679,92315,,Big Bear Lake,3,2,9,True,False
+1333,AIR21849523,92315,,Big Bear Lake,5,4,13,True,False
+1334,AIR21852260,92315,,Big Bear Lake,3,3,9,False,False
+1335,AIR21856810,92315,,Big Bear Lake,3,2,8,False,False
+1336,AIR22421366,92315,,Big Bear Lake,3,2,7,False,False
+1337,AIR23708423,92315,,Big Bear Lake,4,2,9,True,False
+1338,AIR25172832,92315,,Big Bear Lake,3,2,9,True,False
+1339,AIR26131105,92314,,Big Bear City,4,2,10,False,False
+1340,AIR26406898,92252,,Joshua Tree,3,2,8,True,False
+1341,AIR28249817,92314,,Big Bear City,5,5,15,True,False
+1342,AIR28411069,92252,,Joshua Tree,3,2,8,False,False
+1343,AIR29155977,92315,,Big Bear Lake,4,3,8,True,False
+1344,AIR30145488,92315,,Big Bear Lake,3,2,8,False,True
+1345,AIR30566785,92315,,Big Bear Lake,4,3,11,True,False
+1346,AIR30960169,92315,,Big Bear Lake,3,1,6,False,False
+1347,AIR30968769,92314,,Big Bear City,4,2,10,True,False
+1348,AIR31963772,92315,,Big Bear Lake,5,5,15,False,False
+1349,AIR31964048,92315,,Big Bear Lake,4,4,14,True,False
+1350,AIR32427616,92315,,Big Bear Lake,3,3,9,True,False
+1351,AIR33493779,92314,,Big Bear City,3,3,10,True,False
+1352,AIR33742440,92315,,Big Bear Lake,3,2,8,True,False
+1353,AIR37301209,92315,,Big Bear Lake,3,2,6,True,False
+1354,AIR37496816,92314,,Big Bear City,3,3,8,False,False
+1355,AIR37714652,92314,,Big Bear City,3,2,7,True,False
+1356,AIR38244026,92315,,Big Bear Lake,4,3,8,True,False
+1357,AIR38575969,92314,,Big Bear City,3,2,6,False,False
+1358,AIR39248749,92284,,Yucca Valley,4,2,10,True,True
+1359,AIR39464791,92314,,Big Bear City,3,2,6,False,False
+1360,AIR39630755,92315,,Big Bear Lake,3,2,6,False,False
+1361,AIR39846081,92315,,Big Bear Lake,4,3,11,False,False
+1362,AIR40261289,92315,,Big Bear Lake,3,2,6,True,False
+1363,AIR40263484,92315,,Big Bear Lake,3,2,9,False,False
+1364,AIR40288023,92315,,Big Bear Lake,4,2,12,True,False
+1365,AIR40612364,92315,,Big Bear Lake,3,2,9,False,False
+1366,AIR4403449,92314,Angels Camp Road,Big Bear City,4,3,15,True,False
+1367,AIR4661220,92314,Plumas Court,Big Bear City,4,3,10,False,False
+1368,AIR5127987,92315,Colusa Lane,Big Bear Lake,3,3,14,False,False
+1369,AIR58748,92315,Pigeon Road,Big Bear Lake,4,2,13,True,False
+1370,AIR6279028,92315,Temple Lane,Big Bear Lake,5,4,12,True,False
+1371,AIR7086670,92315,Butte Avenue,Big Bear Lake,3,2,10,False,False
+1372,AIR7108841,92315,Yosemite Drive,Big Bear Lake,5,5,15,True,False
+1373,AIR7112287,92315,Silver Tip Drive,Big Bear Lake,4,2,9,True,False
+1374,AIR7112458,92315,Willow Landing Road,Big Bear Lake,3,2,6,True,False
+1375,AIR8942363,92315,Eagle Drive,Big Bear Lake,4,3,9,False,False
+1376,AIR9187660,92315,Aspen Drive,Big Bear Lake,3,1,6,False,False
+1377,AIR13300986,92315,Golden West Drive,Big Bear Lake,3,2,8,False,False
+1378,AIR17402867,92315,,Big Bear Lake,5,3,14,False,False
+1379,AIR17881614,92315,,Big Bear Lake,4,4,12,False,False
+1380,AIR20300901,92315,,Big Bear Lake,4,2,9,True,False
+1381,AIR20469856,92314,,Big Bear City,3,3,10,False,False
+1382,AIR20804845,92315,,Big Bear Lake,3,2,6,True,False
+1383,AIR22297035,92315,,Big Bear Lake,4,4,15,True,False
+1384,AIR23075681,92315,,Big Bear Lake,4,3,12,False,False
+1385,AIR23859098,92315,,Big Bear Lake,4,3,10,False,False
+1386,AIR24065631,92252,,Joshua Tree,3,2,6,False,False
+1387,AIR25047822,92315,,Big Bear Lake,4,3,8,True,False
+1388,AIR27261562,92314,,Big Bear City,3,3,12,False,False
+1389,AIR27928473,92315,,Big Bear Lake,3,3,10,False,False
+1390,AIR29336613,92314,,Big Bear City,4,2,10,False,False
+1391,AIR29956863,92314,,Big Bear City,3,3,10,False,False
+1392,AIR30088092,92314,,Big Bear City,3,2,8,False,False
+1393,AIR30145583,92315,,Big Bear Lake,3,2,6,False,False
+1394,AIR32891503,92284,,Yucca Valley,3,3,6,True,False
+1395,AIR33772591,92315,,Big Bear Lake,3,3,14,False,False
+1396,AIR37501383,92315,,Big Bear Lake,4,2,8,True,False
+1397,AIR40594841,92315,,Big Bear Lake,3,3,9,False,False
+1398,AIR6559094,92315,Bow Canyon Road,Big Bear Lake,3,2,8,False,False
+1399,AIR8017819,92315,Crestwood Drive,Big Bear Lake,3,3,11,False,False
+1400,AIR12028635,92314,Waldstrasse Way,Big Bear City,3,2,10,True,False
+1401,AIR14262151,92314,La Crescenta Drive,Big Bear City,3,3,10,True,False
+1402,AIR15256744,92284,Cholla Avenue,Yucca Valley,4,3,13,True,True
+1403,AIR15510721,92315,Summit Boulevard,Big Bear Lake,3,3,10,False,False
+1404,AIR15631287,92315,Avalon Road,Big Bear Lake,3,2,7,False,False
+1405,AIR15631599,92314,Klamath Road,Big Bear City,3,3,8,False,False
+1406,AIR16205484,92314,,Big Bear City,3,2,12,False,False
+1407,AIR16335122,92315,,Big Bear Lake,5,4,15,True,False
+1408,AIR17402943,92315,,Big Bear Lake,4,3,15,True,False
+1409,AIR17402986,92314,,Big Bear City,3,3,8,True,False
+1410,AIR17607591,92315,,Big Bear Lake,3,2,8,False,False
+1411,AIR17607604,92315,,Big Bear Lake,4,4,12,True,False
+1412,AIR17880962,92315,,Big Bear Lake,5,4,12,True,False
+1413,AIR17918220,92252,,Joshua Tree,3,2,6,False,False
+1414,AIR19861810,92315,Windsong Place,Big Bear Lake,3,2,8,True,False
+1415,AIR21010322,92314,,Big Bear City,3,2,9,True,False
+1416,AIR21160373,92314,,Big Bear City,3,2,8,True,False
+1417,AIR21863821,92315,,Big Bear Lake,3,2,6,True,False
+1418,AIR22119803,92315,,Big Bear Lake,3,2,8,False,False
+1419,AIR22165698,92315,,Big Bear Lake,3,2,6,False,True
+1420,AIR26666195,92315,,Big Bear Lake,5,4,13,False,False
+1421,AIR26868438,92315,,Big Bear Lake,3,2,8,True,False
+1422,AIR27285459,92314,,Big Bear City,3,2,10,False,False
+1423,AIR28609025,92315,,Big Bear Lake,3,3,9,True,False
+1424,AIR28913195,92315,,Big Bear Lake,3,2,8,True,False
+1425,AIR29035122,92315,,Big Bear Lake,4,3,15,False,False
+1426,AIR29359581,92315,,Big Bear Lake,3,2,8,True,False
+1427,AIR30145512,92315,,Big Bear Lake,3,3,8,False,False
+1428,AIR32798722,92314,,Big Bear City,3,2,9,True,False
+1429,AIR33117856,92252,,Joshua Tree,4,3,10,True,False
+1430,AIR34603983,92315,,Big Bear Lake,3,3,10,True,False
+1431,AIR3510749,92315,Balsam Drive,Big Bear Lake,4,2,8,True,False
+1432,AIR36202861,92315,,Big Bear Lake,4,3,8,True,False
+1433,AIR36422578,92315,,Big Bear Lake,3,2,10,True,False
+1434,AIR36557847,92315,,Big Bear Lake,4,2,9,False,False
+1435,AIR36919635,92314,,Big Bear City,3,2,8,False,False
+1436,AIR38003579,92314,,Big Bear City,3,2,6,False,False
+1437,AIR3802993,92314,Villa Grove Avenue,Big Bear City,3,2,7,True,False
+1438,AIR39060412,92315,,Big Bear Lake,3,2,8,True,False
+1439,AIR40093820,92315,,Big Bear Lake,3,2,6,False,False
+1440,AIR40186386,92314,,Big Bear City,4,4,11,True,False
+1441,AIR40206706,92315,,Big Bear Lake,3,2,8,True,False
+1442,AIR5269120,92315,Gold Rush Drive,Big Bear Lake,4,3,14,True,False
+1443,AIR6278977,92315,Cameron Drive,Big Bear Lake,4,3,12,False,False
+1444,AIR6279078,92315,Sheephorn Road,Big Bear Lake,3,2,11,True,False
+1445,AIR6279101,92315,Lassen Court,Big Bear Lake,4,4,13,True,False
+1446,AIR6350250,92314,West Big Bear Boulevard,Big Bear City,3,1,8,False,False
+1447,AIR7113172,92314,Robinhood Boulevard,Big Bear City,3,2,8,False,False
+1448,AIR828953,92315,Silver Tip Drive,Big Bear Lake,5,4,12,True,False
+1449,AIR10833910,92284,Jemez Trail,Yucca Valley,3,1,8,False,False
+1450,AIR11911637,92315,Big Bear Boulevard,Big Bear Lake,5,3,12,True,False
+1451,AIR12905918,92315,,Big Bear Lake,3,4,10,True,False
+1452,AIR13865132,92314,Mount Doble Drive,Big Bear City,4,2,10,True,False
+1453,AIR14124558,92315,Bluebird Court,Big Bear Lake,4,3,12,True,False
+1454,AIR14254814,92315,Monterey Street,Big Bear Lake,3,2,8,True,False
+1455,AIR15055918,92315,Hillcrest Drive,Big Bear Lake,3,2,8,True,False
+1456,AIR15510900,92315,Lintner Road,Big Bear Lake,3,1,5,False,False
+1457,AIR15564165,92315,Ravine Road,Big Bear Lake,3,3,7,True,False
+1458,AIR16428729,92314,,Big Bear City,5,3,12,False,False
+1459,AIR16498704,92315,,Big Bear Lake,4,2,8,True,False
+1460,AIR17403054,92315,,Big Bear Lake,3,3,12,True,False
+1461,AIR17607593,92315,,Big Bear Lake,3,3,14,True,False
+1462,AIR17611565,92315,,Big Bear Lake,4,2,12,False,False
+1463,AIR18567176,92315,,Big Bear Lake,3,2,10,False,False
+1464,AIR18567724,92314,,Big Bear City,3,2,7,False,False
+1465,AIR18964045,92315,,Big Bear Lake,3,2,8,True,False
+1466,AIR19180081,92315,,Big Bear Lake,4,3,12,False,False
+1467,AIR21152882,92284,,Yucca Valley,4,2,10,True,False
+1468,AIR21213316,92315,,Big Bear Lake,4,2,8,True,False
+1469,AIR21439478,92315,,Big Bear Lake,3,2,6,True,False
+1470,AIR21487444,92315,,Big Bear Lake,4,3,9,False,False
+1471,AIR21632130,92314,,Big Bear City,3,2,8,False,False
+1472,AIR21662240,92315,,Big Bear Lake,3,3,6,False,False
+1473,AIR21836627,92314,,Big Bear City,5,5,15,False,False
+1474,AIR21848582,92315,,Big Bear Lake,3,2,6,True,False
+1475,AIR21850143,92315,,Big Bear Lake,4,4,10,False,False
+1476,AIR23902016,92314,,Big Bear City,3,2,7,False,False
+1477,AIR24099854,92252,,Joshua Tree,3,3,8,True,False
+1478,AIR25050105,92315,,Big Bear Lake,4,3,15,True,False
+1479,AIR25909941,92315,,Big Bear Lake,3,3,10,True,False
+1480,AIR26165552,92315,,Big Bear Lake,3,2,7,False,False
+1481,AIR26346810,92315,,Big Bear Lake,3,3,8,False,False
+1482,AIR28306062,92315,,Big Bear Lake,3,2,8,True,False
+1483,AIR29490070,92315,,Big Bear Lake,4,4,15,True,False
+1484,AIR29542753,92252,,Joshua Tree,3,3,6,False,True
+1485,AIR29759214,92315,,Big Bear Lake,4,5,15,False,False
+1486,AIR29855379,92315,,Big Bear Lake,4,3,9,False,False
+1487,AIR30057256,92315,,Big Bear Lake,5,6,12,False,False
+1488,AIR30680441,92314,,Big Bear City,3,3,12,True,False
+1489,AIR3069095,92315,Bow Canyon Road,Big Bear Lake,3,3,10,False,False
+1490,AIR31475442,92315,,Big Bear Lake,3,2,6,True,False
+1491,AIR31698843,92315,,Big Bear Lake,4,3,10,False,False
+1492,AIR34603811,92315,,Big Bear Lake,3,2,6,True,False
+1493,AIR37943473,92315,,Big Bear Lake,4,3,14,False,False
+1494,AIR39060376,92315,,Big Bear Lake,3,2,7,False,False
+1495,AIR39530486,92315,,Big Bear Lake,3,2,6,True,False
+1496,AIR40591761,92314,,Big Bear City,4,4,13,False,False
+1497,AIR40817298,92315,,Big Bear Lake,3,3,10,True,False
+1498,AIR4509329,92315,Clover Drive,Big Bear Lake,5,4,14,True,False
+1499,AIR4588679,92315,Pigeon Road,Big Bear Lake,3,2,7,False,False
+1500,AIR4733393,92315,Park Avenue,Big Bear Lake,3,2,10,False,False
+1501,AIR5115919,92315,Forest Road,Big Bear Lake,3,2,8,False,False
+1502,AIR6279067,92315,Catalina Road,Big Bear Lake,3,2,10,True,False
+1503,AIR6675996,92315,Yosemite Drive,Big Bear Lake,3,3,10,False,False
+1504,AIR7110351,92315,Eagles Flight Place,Big Bear Lake,5,4,15,True,False
+1505,AIR7601955,92315,Evergreen Drive,Big Bear Lake,4,3,15,True,False
+1506,AIR8572681,92315,,Big Bear Lake,3,2,8,False,False
+1507,AIR8830938,92315,Hummingbird Lane,Big Bear Lake,4,3,12,True,False
+1508,AIR9200947,92315,,Big Bear Lake,3,3,10,True,False
+1509,AIR12361554,92315,Cienega Road,Big Bear Lake,3,2,7,True,True
+1510,AIR14200114,92315,Houston Court,Big Bear Lake,4,5,10,True,False
+1511,AIR15745591,92315,Wolf Road,Big Bear Lake,3,4,8,True,False
+1512,AIR17286536,92315,,Big Bear Lake,3,3,10,True,False
+1513,AIR17403004,92315,,Big Bear Lake,3,2,8,False,False
+1514,AIR17418766,92315,,Big Bear Lake,3,2,8,True,False
+1515,AIR20070729,92315,,Big Bear Lake,3,2,10,True,False
+1516,AIR20636298,92315,,Big Bear Lake,4,2,10,False,False
+1517,AIR24159754,92284,,Yucca Valley,3,3,8,False,False
+1518,AIR25586292,92314,,Big Bear City,3,2,8,False,False
+1519,AIR26150094,92315,,Big Bear Lake,3,3,8,False,False
+1520,AIR26766557,92315,,Big Bear Lake,4,3,10,False,False
+1521,AIR2784124,92315,Summit Boulevard,Big Bear Lake,3,2,11,False,False
+1522,AIR29140786,92314,,Big Bear City,3,2,6,False,False
+1523,AIR29756248,92315,,Big Bear Lake,5,2,14,False,False
+1524,AIR29825778,92284,,Yucca Valley,4,2,10,True,False
+1525,AIR30063956,92314,,Big Bear City,3,1,6,False,False
+1526,AIR30145516,92315,,Big Bear Lake,4,3,8,True,False
+1527,AIR30959248,92314,,Big Bear City,3,3,10,False,False
+1528,AIR31087943,92315,,Big Bear Lake,3,3,8,True,False
+1529,AIR31672387,92314,,Big Bear City,3,2,8,False,False
+1530,AIR33364734,92315,,Big Bear Lake,3,3,7,True,True
+1531,AIR34502073,92252,,Joshua Tree,3,2,6,False,False
+1532,AIR34645535,92315,,Big Bear Lake,3,2,6,False,False
+1533,AIR34906852,92314,,Big Bear City,3,2,12,True,False
+1534,AIR34942551,92315,,Big Bear Lake,3,4,10,False,False
+1535,AIR35373905,92315,,Big Bear Lake,4,3,12,False,False
+1536,AIR36146782,92315,,Big Bear Lake,4,5,15,True,False
+1537,AIR38186090,92314,,Big Bear City,4,3,8,False,False
+1538,AIR38576753,92315,,Big Bear Lake,3,2,8,True,False
+1539,AIR38816794,92315,,Big Bear Lake,3,2,8,True,False
+1540,AIR39228712,92315,,Big Bear Lake,3,3,12,True,False
+1541,AIR39279152,92252,,Joshua Tree,3,1,6,True,False
+1542,AIR4386727,92315,Cameron Drive,Big Bear Lake,4,4,12,True,False
+1543,AIR4832056,92315,Moonridge Road,Big Bear Lake,3,2,11,False,False
+1544,AIR5202992,92315,Mahanoy Lane,Big Bear Lake,3,2,6,True,False
+1545,AIR6055454,92315,,Big Bear Lake,3,2,8,True,True
+1546,AIR7196789,92315,Lassen Court,Big Bear Lake,4,3,12,True,False
+1547,AIR8384198,92252,Calle Del Rio,Joshua Tree,3,2,6,True,False
+1548,AIR8505325,92314,West Rainbow Boulevard,Big Bear City,3,2,10,False,False
+1549,AIR13258746,92315,,Big Bear Lake,3,2,6,True,False
+1550,AIR14124353,92315,Olympic Drive,Big Bear Lake,3,3,9,False,False
+1551,AIR15343152,92315,Cove Drive,Big Bear Lake,3,4,8,False,False
+1552,AIR17402860,92315,,Big Bear Lake,5,5,14,True,False
+1553,AIR18413233,92315,,Big Bear Lake,4,4,10,False,False
+1554,AIR18567481,92315,,Big Bear Lake,4,2,15,False,False
+1555,AIR18567847,92314,,Big Bear City,3,2,8,False,False
+1556,AIR21066684,92315,,Big Bear Lake,4,2,10,True,False
+1557,AIR21849791,92314,,Big Bear City,3,2,8,False,False
+1558,AIR24749719,92315,,Big Bear Lake,4,3,14,True,False
+1559,AIR25172847,92315,,Big Bear Lake,4,3,11,True,False
+1560,AIR26452578,92315,,Big Bear Lake,3,2,6,True,False
+1561,AIR28078337,92314,,Big Bear City,3,2,6,False,False
+1562,AIR29612613,92315,,Big Bear Lake,3,2,6,True,False
+1563,AIR29856647,92315,,Big Bear Lake,3,2,6,False,False
+1564,AIR29943687,92315,,Big Bear Lake,3,2,6,False,False
+1565,AIR30565159,92315,,Big Bear Lake,4,4,10,True,False
+1566,AIR30853451,92314,,Big Bear City,3,3,10,False,False
+1567,AIR32810903,92315,,Big Bear Lake,3,2,6,False,False
+1568,AIR32921240,92314,,Big Bear City,3,1,8,False,False
+1569,AIR33743808,92314,,Big Bear City,3,3,12,True,False
+1570,AIR35370905,92315,,Big Bear Lake,3,2,6,False,False
+1571,AIR38372586,92252,,Joshua Tree,3,2,5,False,False
+1572,AIR39318391,92315,,Big Bear Lake,3,4,12,True,False
+1573,AIR39320326,92315,,Big Bear Lake,4,4,10,True,False
+1574,AIR39637004,92315,,Big Bear Lake,4,4,10,True,False
+1575,AIR40072616,92315,,Big Bear Lake,3,2,7,True,False
+1576,AIR6362816,92315,Willow Landing Road,Big Bear Lake,3,2,10,False,False
+1577,AIR6615237,92315,Pinecrest Drive,Big Bear Lake,4,3,10,False,False
+1578,AIR6762247,92315,,Big Bear Lake,3,3,8,True,False
+1579,AIR9699388,92315,Wren Drive,Big Bear Lake,3,2,8,True,False
+1580,AIR11375202,92315,Knoll Road,Big Bear Lake,4,2,9,False,False
+1581,AIR16131099,92315,,Big Bear Lake,3,1,7,True,False
+1582,AIR20184738,92315,,Big Bear Lake,4,3,10,True,False
+1583,AIR20184753,92315,,Big Bear Lake,3,1,6,True,False
+1584,AIR20945496,92315,,Big Bear Lake,3,2,8,True,False
+1585,AIR20945622,92315,,Big Bear Lake,3,2,8,True,False
+1586,AIR22076955,92314,,Big Bear City,5,4,13,True,False
+1587,AIR28111284,92315,,Big Bear Lake,3,2,9,True,False
+1588,AIR28313627,92315,,Big Bear Lake,3,2,8,False,False
+1589,AIR2934421,92315,Silver Tip Drive,Big Bear Lake,3,2,9,True,False
+1590,AIR30063960,92315,,Big Bear Lake,3,2,8,False,False
+1591,AIR33492269,92314,,Big Bear City,3,2,6,True,False
+1592,AIR34811264,92314,,Big Bear City,4,3,8,False,False
+1593,AIR36141708,92315,,Big Bear Lake,3,4,12,True,False
+1594,AIR36366959,92315,,Big Bear Lake,4,4,12,True,False
+1595,AIR37462209,92315,,Big Bear Lake,3,2,6,True,False
+1596,AIR37970372,92252,,Joshua Tree,3,2,6,True,False
+1597,AIR38046173,92315,,Big Bear Lake,3,2,6,False,False
+1598,AIR38421176,92315,,Big Bear Lake,3,3,11,False,False
+1599,AIR39820447,92315,,Big Bear Lake,3,2,10,False,False
+1600,AIR9497839,92252,,Joshua Tree,5,2,12,False,True
+1601,AIR955297,92315,Castlewood Road,Big Bear Lake,5,2,12,True,False
+1602,AIR14200088,92315,Golden Oak Road,Big Bear Lake,3,3,10,True,False
+1603,AIR18567230,92314,,Big Bear City,3,2,8,False,False
+1604,AIR20214258,92315,,Big Bear Lake,4,5,15,True,False
+1605,AIR20651000,92315,,Big Bear Lake,4,4,15,True,False
+1606,AIR2288043,92315,Peninsula Lane,Big Bear Lake,5,6,12,True,False
+1607,AIR25767703,92314,,Big Bear City,5,4,15,True,False
+1608,AIR27110602,92252,,Joshua Tree,3,1,6,True,False
+1609,AIR28128140,92315,,Big Bear Lake,3,2,6,True,False
+1610,AIR28490055,92315,,Big Bear Lake,4,3,10,True,False
+1611,AIR29872931,92252,,Joshua Tree,3,2,6,True,False
+1612,AIR30145655,92314,,Big Bear City,4,3,8,False,False
+1613,AIR32932831,92314,,Big Bear City,3,1,8,False,False
+1614,AIR33157613,92315,,Big Bear Lake,3,2,8,False,False
+1615,AIR36390310,92315,,Big Bear Lake,4,3,12,True,False
+1616,AIR38412086,92314,,Big Bear City,3,3,14,False,False
+1617,AIR39529997,92315,,Big Bear Lake,3,4,9,True,True
+1618,AIR39673957,92315,,Big Bear Lake,5,3,14,True,False
+1619,AIR40263140,92315,,Big Bear Lake,4,3,10,True,False
+1620,AIR40427491,92314,,Big Bear City,3,2,8,False,False
+1621,AIR40537192,92314,,Big Bear City,3,2,8,True,False
+1622,AIR936182,92252,Copper Mesa Road,Joshua Tree,3,2,6,False,False
+1623,AIR9542631,92314,Pine Lane,Big Bear City,3,2,6,False,False
+1624,AIR9796797,92315,Juniper Drive,Big Bear Lake,3,2,9,True,False
+1625,AIR11970806,92315,Gibralter Road,Big Bear Lake,4,3,10,True,False
+1626,AIR12386241,92315,Edgemoor Road,Big Bear Lake,3,2,8,False,False
+1627,AIR14200443,92315,Lakeview Court,Big Bear Lake,4,4,12,False,False
+1628,AIR14479975,92315,Knoll Road,Big Bear Lake,4,4,9,True,False
+1629,AIR16973733,92315,,Big Bear Lake,5,4,15,True,False
+1630,AIR17403089,92314,,Big Bear City,3,2,10,True,False
+1631,AIR1782553,92315,Yosemite Drive,Big Bear Lake,4,3,13,True,False
+1632,AIR18563209,92315,,Big Bear Lake,3,2,8,True,False
+1633,AIR18567391,92315,,Big Bear Lake,3,2,10,False,False
+1634,AIR19250665,92314,,Big Bear City,3,1,8,False,False
+1635,AIR19907952,92315,Windsong Place,Big Bear Lake,3,3,7,True,False
+1636,AIR20232438,92314,,Big Bear City,3,3,8,True,False
+1637,AIR21149220,92315,,Big Bear Lake,4,3,11,True,False
+1638,AIR22546839,92315,,Big Bear Lake,3,2,10,True,False
+1639,AIR22788268,92315,,Big Bear Lake,3,2,6,False,False
+1640,AIR26132541,92315,,Big Bear Lake,3,2,6,True,False
+1641,AIR26452124,92315,,Big Bear Lake,3,1,8,True,False
+1642,AIR26463772,92314,,Big Bear City,4,2,10,True,False
+1643,AIR27834284,92315,,Big Bear Lake,4,4,11,True,False
+1644,AIR28001321,92315,,Big Bear Lake,3,2,8,False,False
+1645,AIR29059758,92252,,Joshua Tree,3,2,12,False,False
+1646,AIR29261174,92284,,Yucca Valley,4,2,8,True,False
+1647,AIR29878087,92315,,Big Bear Lake,4,3,14,False,False
+1648,AIR29957373,92252,,Joshua Tree,3,2,12,False,False
+1649,AIR30145482,92315,,Big Bear Lake,3,2,6,True,False
+1650,AIR30145562,92315,,Big Bear Lake,3,2,8,False,False
+1651,AIR30145593,92315,,Big Bear Lake,3,2,5,True,False
+1652,AIR30145637,92315,,Big Bear Lake,3,2,9,False,False
+1653,AIR30561851,92315,,Big Bear Lake,5,4,15,False,False
+1654,AIR30564692,92314,,Big Bear City,3,2,8,False,False
+1655,AIR30935239,92315,,Big Bear Lake,3,2,12,False,False
+1656,AIR30968762,92315,,Big Bear Lake,3,3,8,False,False
+1657,AIR31561965,92314,,Big Bear City,4,2,11,True,False
+1658,AIR31831880,92315,,Big Bear Lake,3,3,12,False,False
+1659,AIR32847633,92252,,Joshua Tree,3,2,6,False,False
+1660,AIR33706802,92315,,Big Bear Lake,3,2,8,True,False
+1661,AIR35353221,92314,,Big Bear City,3,2,6,True,False
+1662,AIR35707058,92314,,Big Bear City,3,2,6,False,False
+1663,AIR35807214,92314,,Big Bear City,3,1,6,False,False
+1664,AIR36776183,92315,,Big Bear Lake,3,2,4,False,False
+1665,AIR39254330,92315,,Big Bear Lake,3,4,10,True,False
+1666,AIR39298267,92315,,Big Bear Lake,4,2,7,False,False
+1667,AIR39727280,92284,,Yucca Valley,4,3,8,True,False
+1668,AIR39868084,92315,,Big Bear Lake,3,2,8,False,False
+1669,AIR40309849,92315,,Big Bear Lake,3,1,8,True,False
+1670,AIR5051903,92315,Colusa Drive,Big Bear Lake,3,2,6,False,False
+1671,AIR6278946,92315,Crestwood Drive,Big Bear Lake,5,4,13,True,False
+1672,AIR6490672,92284,Aster Avenue,Yucca Valley,3,4,12,False,False
+1673,AIR7088933,92315,Edgemoor Road,Big Bear Lake,3,2,8,True,False
+1674,AIR7112060,92315,Maryland Road,Big Bear Lake,4,3,12,True,False
+1675,AIR781338,92315,Talbot Drive,Big Bear Lake,5,3,14,False,False
+1676,AIR9174808,92314,Barrett Way,Big Bear City,3,2,10,False,False
+1677,AIR12175604,92315,Shasta Road,Big Bear Lake,4,4,11,True,False
+1678,AIR16026089,92314,,Big Bear City,3,3,8,False,False
+1679,AIR16314961,92314,,Big Bear City,3,3,8,False,False
+1680,AIR16871290,92315,,Big Bear Lake,3,3,8,True,False
+1681,AIR16871298,92315,,Big Bear Lake,3,2,8,False,False
+1682,AIR16871322,92315,,Big Bear Lake,3,2,6,False,False
+1683,AIR16871328,92315,,Big Bear Lake,4,3,8,True,False
+1684,AIR17402841,92315,,Big Bear Lake,3,2,10,False,False
+1685,AIR17805709,92315,Fox Farm Road,Big Bear Lake,3,3,11,False,False
+1686,AIR17891808,92284,,Yucca Valley,3,2,6,False,False
+1687,AIR18567643,92315,,Big Bear Lake,3,1,8,False,False
+1688,AIR18567710,92314,,Big Bear City,4,2,10,False,False
+1689,AIR18698450,92315,,Big Bear Lake,3,2,8,False,False
+1690,AIR19267042,92315,Olympic Drive,Big Bear Lake,4,6,15,True,False
+1691,AIR19789448,92314,,Big Bear City,5,4,15,True,False
+1692,AIR20538993,92314,,Big Bear City,3,2,6,False,False
+1693,AIR21206420,92315,,Big Bear Lake,4,3,10,True,False
+1694,AIR21367187,92315,,Big Bear Lake,3,2,8,True,True
+1695,AIR21728268,92315,,Big Bear Lake,3,2,7,True,False
+1696,AIR21937871,92314,,Big Bear City,3,2,6,False,False
+1697,AIR21996300,92315,,Big Bear Lake,3,2,8,False,False
+1698,AIR21999572,92315,,Big Bear Lake,5,3,14,True,False
+1699,AIR22943351,92252,,Joshua Tree,3,1,7,False,False
+1700,AIR23121107,92315,,Big Bear Lake,5,4,10,False,False
+1701,AIR23454704,92314,,Big Bear City,3,2,6,False,False
+1702,AIR24572700,92315,,Big Bear Lake,4,3,10,True,False
+1703,AIR28098809,92252,,Joshua Tree,4,2,10,True,False
+1704,AIR28580485,92314,,Big Bear City,5,2,14,False,False
+1705,AIR28777370,92252,,Joshua Tree,3,1,6,False,False
+1706,AIR28809095,92314,,Big Bear City,4,3,14,False,False
+1707,AIR29645820,92315,,Big Bear Lake,3,2,10,False,False
+1708,AIR30589073,92315,,Big Bear Lake,3,4,8,False,False
+1709,AIR31222982,92315,,Big Bear Lake,4,3,12,True,False
+1710,AIR31390545,92315,,Big Bear Lake,4,4,10,True,True
+1711,AIR31981719,92252,,Joshua Tree,3,1,6,False,False
+1712,AIR32477492,92314,,Big Bear City,3,2,8,False,False
+1713,AIR32938357,92315,,Big Bear Lake,3,2,8,False,False
+1714,AIR34910803,92314,,Big Bear City,3,2,6,False,False
+1715,AIR35459542,92284,,Yucca Valley,3,2,8,False,False
+1716,AIR36207048,92314,,Big Bear City,4,5,15,True,False
+1717,AIR36463087,92315,,Big Bear Lake,4,4,11,False,False
+1718,AIR37124286,92284,,Yucca Valley,3,2,6,False,False
+1719,AIR40134656,92315,,Big Bear Lake,3,2,6,False,False
+1720,AIR40210284,92315,,Big Bear Lake,3,2,8,True,False
+1721,AIR40293677,92315,,Big Bear Lake,3,2,8,False,False
+1722,AIR40309477,92315,,Big Bear Lake,3,3,8,False,False
+1723,AIR5259292,92315,Wolf Road,Big Bear Lake,4,4,10,True,False
+1724,AIR7635253,92315,Primrose Drive,Big Bear Lake,3,2,6,True,False
+1725,AIR8272249,92314,West Fairway Boulevard,Big Bear City,3,2,6,False,False
+1726,AIR12134023,92314,Klamath Road,Big Bear City,3,2,10,True,False
+1727,AIR14124548,92315,Finch Drive,Big Bear Lake,3,2,7,True,False
+1728,AIR15329746,92315,Sheephorn Road,Big Bear Lake,3,3,8,True,False
+1729,AIR15718198,92315,Sheephorn Road,Big Bear Lake,4,4,15,False,False
+1730,AIR15958885,92315,Plymouth Road,Big Bear Lake,3,2,7,True,False
+1731,AIR16532817,92284,,Yucca Valley,3,2,6,False,False
+1732,AIR16723885,92284,,Yucca Valley,3,3,8,True,True
+1733,AIR1688438,92315,Creek Road,Big Bear Lake,3,2,7,False,False
+1734,AIR17175769,92252,,Joshua Tree,3,2,10,False,False
+1735,AIR17476446,92314,,Big Bear City,4,2,12,False,False
+1736,AIR19946199,92314,,Big Bear City,4,2,12,True,False
+1737,AIR20327073,92314,,Big Bear City,3,2,8,False,False
+1738,AIR20728707,92315,,Big Bear Lake,5,4,9,False,False
+1739,AIR21099400,92252,,Joshua Tree,3,2,8,True,False
+1740,AIR21106601,92252,,Joshua Tree,3,2,6,False,False
+1741,AIR21149209,92315,,Big Bear Lake,4,2,9,True,False
+1742,AIR21220649,92315,,Big Bear Lake,3,2,8,False,False
+1743,AIR21311340,92315,,Big Bear Lake,3,2,6,False,False
+1744,AIR21645334,92284,,Yucca Valley,3,2,6,True,False
+1745,AIR21667006,92315,,Big Bear Lake,3,2,6,True,False
+1746,AIR22944803,92314,,Big Bear City,4,4,14,True,False
+1747,AIR23257570,92315,,Big Bear Lake,3,2,6,False,False
+1748,AIR23593985,92315,,Big Bear Lake,4,2,10,True,False
+1749,AIR2514507,92315,Switzerland Place,Big Bear Lake,3,2,9,True,False
+1750,AIR27783802,92314,,Big Bear City,4,3,10,False,False
+1751,AIR28166667,92252,,Joshua Tree,3,2,8,False,True
+1752,AIR2816917,92315,Starvation Flats Road,Big Bear Lake,3,2,8,True,True
+1753,AIR29548193,92314,,Big Bear City,3,3,10,True,False
+1754,AIR29617624,92314,,Big Bear City,4,2,8,True,False
+1755,AIR29688640,92315,,Big Bear Lake,3,2,8,False,False
+1756,AIR30063953,92315,,Big Bear Lake,3,2,8,False,False
+1757,AIR30145628,92315,,Big Bear Lake,4,3,8,False,False
+1758,AIR30851058,92314,,Big Bear City,3,2,8,False,False
+1759,AIR30968743,92315,,Big Bear Lake,4,3,8,False,False
+1760,AIR33428739,92315,,Big Bear Lake,3,2,7,True,True
+1761,AIR33638286,92315,,Big Bear Lake,3,2,10,False,False
+1762,AIR37833742,92315,,Big Bear Lake,4,4,12,True,False
+1763,AIR39086690,92314,,Big Bear City,4,4,12,False,False
+1764,AIR39116527,92252,,Joshua Tree,3,2,8,False,False
+1765,AIR39695655,92315,,Big Bear Lake,5,4,12,False,False
+1766,AIR39775103,92315,,Big Bear Lake,4,3,12,True,False
+1767,AIR39891342,92315,,Big Bear Lake,3,3,8,False,False
+1768,AIR40182513,92315,,Big Bear Lake,5,3,8,False,False
+1769,AIR40184908,92315,,Big Bear Lake,4,3,12,True,False
+1770,AIR40381034,92252,,Joshua Tree,3,2,6,True,False
+1771,AIR40730979,92315,,Big Bear Lake,5,4,10,True,False
+1772,AIR40805665,92315,,Big Bear Lake,3,3,10,True,True
+1773,AIR6543255,92252,Petunia Drive,Joshua Tree,3,2,6,False,False
+1774,AIR7202072,92314,East Big Bear Boulevard,Big Bear City,3,2,8,True,False
+1775,AIR8144308,92315,Primrose Drive,Big Bear Lake,4,5,15,True,False
+1776,AIR14322503,92314,Hillen Dale Drive,Big Bear City,3,3,8,False,False
+1777,AIR16314674,92315,,Big Bear Lake,3,3,8,False,False
+1778,AIR16436136,92314,,Big Bear City,3,2,8,True,False
+1779,AIR16647451,92314,,Big Bear City,3,2,10,False,False
+1780,AIR17361781,92315,,Big Bear Lake,3,2,7,True,True
+1781,AIR19954167,92284,,Yucca Valley,4,2,12,True,False
+1782,AIR21152662,92315,,Big Bear Lake,5,3,9,True,False
+1783,AIR25345062,92315,,Big Bear Lake,4,2,8,True,False
+1784,AIR27107999,92315,,Big Bear Lake,3,2,6,True,False
+1785,AIR27114768,92252,,Joshua Tree,3,2,6,False,False
+1786,AIR27982419,92315,,Big Bear Lake,3,3,8,True,False
+1787,AIR28609145,92284,,Yucca Valley,3,3,6,False,False
+1788,AIR28689218,92314,,Big Bear City,3,2,8,True,False
+1789,AIR28780802,92315,,Big Bear Lake,3,1,6,False,False
+1790,AIR29521405,92314,,Big Bear City,4,3,10,False,False
+1791,AIR32501817,92315,,Big Bear Lake,3,4,9,False,False
+1792,AIR32503197,92315,,Big Bear Lake,3,4,9,False,False
+1793,AIR33452666,92252,,Joshua Tree,3,2,6,False,True
+1794,AIR33599267,92314,,Big Bear City,4,5,14,True,False
+1795,AIR34173668,92314,,Big Bear City,3,1,8,False,False
+1796,AIR37400790,92315,,Big Bear Lake,3,2,6,True,True
+1797,AIR38928474,92314,,Big Bear City,4,3,10,False,False
+1798,AIR40259932,92315,,Big Bear Lake,4,2,9,False,False
+1799,AIR40537021,92315,,Big Bear Lake,5,5,15,True,False
+1800,AIR4409647,92315,Eagle Ridge,Big Bear Lake,4,3,14,True,False
+1801,AIR8130056,92315,Cedar Avenue,Big Bear Lake,4,2,8,True,False
+1802,AIR8652610,92315,Saint Moritz Drive,Big Bear Lake,3,3,8,False,False
+1803,AIR14059902,92314,,Big Bear City,3,2,8,True,False
+1804,AIR14354768,92315,Sonoma Drive,Big Bear Lake,3,2,8,False,False
+1805,AIR16203515,92314,,Big Bear City,4,2,10,False,False
+1806,AIR16256201,92315,,Big Bear Lake,3,2,10,True,False
+1807,AIR16257831,92315,,Big Bear Lake,3,3,10,True,False
+1808,AIR16871289,92315,,Big Bear Lake,3,3,10,False,False
+1809,AIR16871292,92315,,Big Bear Lake,3,2,8,True,False
+1810,AIR17653809,92315,,Big Bear Lake,3,2,10,False,False
+1811,AIR17942886,92315,,Big Bear Lake,3,2,8,False,False
+1812,AIR18525396,92315,,Big Bear Lake,3,3,9,True,False
+1813,AIR18565424,92315,,Big Bear Lake,3,2,8,False,False
+1814,AIR18565433,92315,,Big Bear Lake,3,1,6,False,False
+1815,AIR18566749,92315,,Big Bear Lake,3,2,6,False,False
+1816,AIR18566792,92315,,Big Bear Lake,3,2,6,True,False
+1817,AIR18566803,92314,,Big Bear City,3,1,7,False,False
+1818,AIR18566979,92314,,Big Bear City,4,2,10,False,False
+1819,AIR18567298,92315,,Big Bear Lake,4,4,15,True,False
+1820,AIR18567430,92315,,Big Bear Lake,3,2,7,False,False
+1821,AIR18567631,92315,,Big Bear Lake,3,4,10,True,False
+1822,AIR18567640,92315,,Big Bear Lake,3,2,7,False,False
+1823,AIR18567703,92315,,Big Bear Lake,4,2,10,True,False
+1824,AIR18567713,92315,,Big Bear Lake,3,2,7,True,True
+1825,AIR18567767,92315,,Big Bear Lake,4,3,9,False,False
+1826,AIR18567793,92315,,Big Bear Lake,3,2,9,True,False
+1827,AIR18567836,92315,,Big Bear Lake,3,2,8,False,False
+1828,AIR18567876,92315,,Big Bear Lake,5,3,14,False,False
+1829,AIR18567880,92315,,Big Bear Lake,4,3,10,True,False
+1830,AIR18567885,92315,,Big Bear Lake,5,3,13,True,False
+1831,AIR18685664,92252,,Joshua Tree,3,1,6,True,False
+1832,AIR18703254,92314,,Big Bear City,3,2,6,False,False
+1833,AIR18703256,92315,Balsam Drive,Big Bear Lake,4,3,10,True,False
+1834,AIR18703275,92315,Balsam Drive,Big Bear Lake,4,2,11,False,False
+1835,AIR18997653,92315,,Big Bear Lake,3,2,6,False,False
+1836,AIR20121880,92315,,Big Bear Lake,3,2,8,True,False
+1837,AIR20184756,92315,,Big Bear Lake,3,2,11,True,False
+1838,AIR20232437,92315,,Big Bear Lake,3,1,8,True,False
+1839,AIR20406227,92315,,Big Bear Lake,4,3,12,False,False
+1840,AIR20724721,92315,,Big Bear Lake,3,3,7,False,False
+1841,AIR21768147,92315,,Big Bear Lake,4,2,10,True,False
+1842,AIR21800925,92314,,Big Bear City,3,2,8,False,False
+1843,AIR21800940,92315,,Big Bear Lake,3,1,5,False,False
+1844,AIR22029972,92315,,Big Bear Lake,3,1,8,False,False
+1845,AIR22225752,92314,,Big Bear City,3,3,10,False,False
+1846,AIR22719813,92314,,Big Bear City,3,2,6,True,False
+1847,AIR22939437,92315,,Big Bear Lake,3,2,6,False,False
+1848,AIR23255731,92315,,Big Bear Lake,3,2,8,True,False
+1849,AIR23255743,92315,,Big Bear Lake,3,2,7,True,False
+1850,AIR24081961,92315,,Big Bear Lake,3,2,7,False,False
+1851,AIR24625364,92314,,Big Bear City,3,1,8,False,False
+1852,AIR24756588,92315,,Big Bear Lake,3,1,4,False,False
+1853,AIR25613735,92315,,Big Bear Lake,3,2,10,False,False
+1854,AIR26155893,92315,,Big Bear Lake,3,3,10,True,False
+1855,AIR26368433,92314,,Big Bear City,5,4,12,False,False
+1856,AIR26447689,92315,,Big Bear Lake,4,4,12,False,False
+1857,AIR26448533,92314,,Big Bear City,3,2,6,False,False
+1858,AIR26449537,92315,,Big Bear Lake,3,2,7,False,False
+1859,AIR26449890,92315,,Big Bear Lake,3,2,9,True,False
+1860,AIR26640346,92315,,Big Bear Lake,4,4,13,True,False
+1861,AIR27297244,92284,,Yucca Valley,3,2,6,False,False
+1862,AIR277947,92284,,Yucca Valley,3,1,8,True,False
+1863,AIR28442181,92315,,Big Bear Lake,3,2,6,True,False
+1864,AIR28719018,92315,,Big Bear Lake,3,2,8,True,False
+1865,AIR29057398,92315,,Big Bear Lake,3,2,8,True,False
+1866,AIR29554672,92315,,Big Bear Lake,3,1,8,False,False
+1867,AIR29589903,92284,,Yucca Valley,3,2,6,False,False
+1868,AIR30057258,92314,,Big Bear City,3,2,9,False,False
+1869,AIR30057261,92315,,Big Bear Lake,4,2,10,False,False
+1870,AIR30057287,92315,,Big Bear Lake,3,2,7,False,False
+1871,AIR30072789,92315,,Big Bear Lake,3,2,6,True,False
+1872,AIR30072790,92315,,Big Bear Lake,3,2,8,False,False
+1873,AIR30072792,92315,,Big Bear Lake,3,2,6,False,False
+1874,AIR30073095,92315,,Big Bear Lake,3,2,10,False,False
+1875,AIR30073307,92314,,Big Bear City,4,3,12,True,False
+1876,AIR30073455,92314,,Big Bear City,3,2,10,False,False
+1877,AIR30145580,92315,,Big Bear Lake,3,3,10,True,False
+1878,AIR30145589,92315,,Big Bear Lake,3,3,10,True,False
+1879,AIR30713347,92315,,Big Bear Lake,3,2,8,True,False
+1880,AIR32630632,92315,,Big Bear Lake,3,2,8,False,False
+1881,AIR32980363,92315,,Big Bear Lake,4,2,8,False,False
+1882,AIR32981567,92314,,Big Bear City,4,4,14,False,False
+1883,AIR32987574,92315,,Big Bear Lake,3,3,6,True,False
+1884,AIR33038972,92315,,Big Bear Lake,3,3,7,True,False
+1885,AIR33468900,92315,,Big Bear Lake,3,2,8,False,False
+1886,AIR33472184,92315,,Big Bear Lake,3,2,9,True,False
+1887,AIR33520884,92314,,Big Bear City,4,3,10,False,False
+1888,AIR33549874,92314,,Big Bear City,3,1,6,False,False
+1889,AIR33550365,92315,,Big Bear Lake,3,2,9,True,False
+1890,AIR33637662,92315,,Big Bear Lake,3,2,7,False,False
+1891,AIR33742721,92315,,Big Bear Lake,3,2,9,True,False
+1892,AIR33743804,92315,,Big Bear Lake,4,4,13,True,False
+1893,AIR34229822,92314,,Big Bear City,3,2,10,False,False
+1894,AIR34332416,92314,,Big Bear City,3,2,3,False,False
+1895,AIR34451751,92315,,Big Bear Lake,3,1,8,False,False
+1896,AIR35121197,92315,,Big Bear Lake,3,1,6,False,False
+1897,AIR35383449,92314,,Big Bear City,3,3,10,False,False
+1898,AIR35908328,92315,,Big Bear Lake,3,2,6,False,False
+1899,AIR36026791,92315,,Big Bear Lake,3,1,6,False,False
+1900,AIR36799830,92315,,Big Bear Lake,3,2,5,False,False
+1901,AIR36800204,92314,,Big Bear City,3,2,10,True,False
+1902,AIR37281570,92315,,Big Bear Lake,3,2,6,False,False
+1903,AIR37283919,92315,,Big Bear Lake,3,2,8,False,False
+1904,AIR37835097,92315,,Big Bear Lake,3,2,7,False,False
+1905,AIR37991553,92315,,Big Bear Lake,4,3,13,True,False
+1906,AIR38186529,92314,,Big Bear City,5,4,11,False,False
+1907,AIR38235884,92314,,Big Bear City,3,2,6,False,False
+1908,AIR38703026,92314,,Big Bear City,3,1,6,False,False
+1909,AIR39060377,92314,,Big Bear City,3,2,10,False,False
+1910,AIR39063423,92315,,Big Bear Lake,4,3,10,False,False
+1911,AIR39110145,92315,,Big Bear Lake,3,3,10,True,False
+1912,AIR39251944,92315,,Big Bear Lake,5,3,12,False,False
+1913,AIR39558460,92314,,Big Bear City,3,2,6,False,False
+1914,AIR39558945,92314,,Big Bear City,4,3,12,True,False
+1915,AIR39608400,92315,,Big Bear Lake,3,2,10,False,False
+1916,AIR39771031,92314,,Big Bear City,3,1,6,False,False
+1917,AIR40013623,92314,,Big Bear City,3,3,6,False,False
+1918,AIR8188690,92314,Columbine Drive,Big Bear City,4,4,10,True,False
+1919,AIR9387164,92315,Aspen Drive,Big Bear Lake,3,2,6,True,False
+1920,AIR13372512,92314,Alpine Way,Big Bear City,3,2,9,False,False
+1921,AIR16175996,92314,,Big Bear City,4,3,10,False,False
+1922,AIR17365308,92314,,Big Bear City,3,2,6,False,False
+1923,AIR18567416,92315,,Big Bear Lake,3,2,8,False,False
+1924,AIR18567840,92314,,Big Bear City,3,2,6,True,False
+1925,AIR18667008,92314,,Big Bear City,3,2,8,False,False
+1926,AIR18732659,92252,,Joshua Tree,3,2,6,False,False
+1927,AIR20184747,92315,,Big Bear Lake,3,3,8,False,False
+1928,AIR20300649,92314,,Big Bear City,4,4,15,True,False
+1929,AIR21053718,92315,,Big Bear Lake,3,3,9,False,False
+1930,AIR21092968,92252,,Joshua Tree,4,3,10,False,False
+1931,AIR21149195,92315,,Big Bear Lake,5,3,15,True,False
+1932,AIR21836501,92315,,Big Bear Lake,3,2,4,False,False
+1933,AIR22119231,92315,,Big Bear Lake,4,6,10,True,False
+1934,AIR22495366,92315,,Big Bear Lake,4,4,15,False,False
+1935,AIR23210640,92315,,Big Bear Lake,3,3,8,False,False
+1936,AIR25296646,92315,,Big Bear Lake,4,2,8,False,False
+1937,AIR25453220,92314,,Big Bear City,5,4,14,True,False
+1938,AIR25727425,92252,,Joshua Tree,3,2,8,False,False
+1939,AIR25771587,92252,,Joshua Tree,5,5,10,True,False
+1940,AIR26057983,92315,,Big Bear Lake,3,2,8,False,False
+1941,AIR26073955,92314,,Big Bear City,3,3,8,True,False
+1942,AIR26101532,92315,,Big Bear Lake,3,3,9,False,False
+1943,AIR26451767,92314,,Big Bear City,4,3,12,False,False
+1944,AIR27335513,92315,,Big Bear Lake,3,2,8,True,False
+1945,AIR27651486,92315,,Big Bear Lake,3,2,6,False,False
+1946,AIR27659050,92315,,Big Bear Lake,5,3,15,True,False
+1947,AIR28759968,92315,,Big Bear Lake,3,3,8,False,False
+1948,AIR29100671,92314,,Big Bear City,3,2,6,False,False
+1949,AIR29214316,92314,,Big Bear City,3,3,8,True,False
+1950,AIR29390013,92314,,Big Bear City,3,2,6,True,False
+1951,AIR29898465,92314,,Big Bear City,3,3,11,False,False
+1952,AIR30047213,92315,,Big Bear Lake,3,3,10,False,False
+1953,AIR30063954,92315,,Big Bear Lake,3,3,8,True,False
+1954,AIR30680349,92315,,Big Bear Lake,4,3,12,False,False
+1955,AIR30818203,92315,,Big Bear Lake,3,2,6,False,False
+1956,AIR30962948,92315,,Big Bear Lake,4,3,11,False,False
+1957,AIR30968747,92315,,Big Bear Lake,3,2,6,True,False
+1958,AIR31174615,92284,,Yucca Valley,3,3,6,False,False
+1959,AIR3282047,92315,Blue Jay Road,Big Bear Lake,4,3,11,True,False
+1960,AIR33368697,92252,,Joshua Tree,3,2,6,True,False
+1961,AIR33394171,92315,,Big Bear Lake,3,2,6,True,False
+1962,AIR33470264,92314,,Big Bear City,3,2,6,False,False
+1963,AIR33494068,92315,,Big Bear Lake,4,3,13,True,False
+1964,AIR34715587,92315,,Big Bear Lake,3,1,6,False,False
+1965,AIR35950504,92314,,Big Bear City,5,5,15,True,False
+1966,AIR35999079,92315,,Big Bear Lake,3,2,8,False,False
+1967,AIR36178743,92284,,Yucca Valley,3,3,6,True,False
+1968,AIR36523517,92314,,Big Bear City,4,2,10,False,False
+1969,AIR37749514,92315,,Big Bear Lake,3,2,5,False,False
+1970,AIR38103217,92252,,Joshua Tree,3,3,6,False,False
+1971,AIR38209743,92314,,Big Bear City,3,3,6,False,False
+1972,AIR38779974,92314,,Big Bear City,3,2,8,False,False
+1973,AIR39087732,92315,,Big Bear Lake,3,2,10,True,False
+1974,AIR39950371,92315,,Big Bear Lake,4,4,12,False,False
+1975,AIR39950450,92315,,Big Bear Lake,3,2,12,False,False
+1976,AIR39950851,92314,,Big Bear City,3,3,8,False,False
+1977,AIR40082048,92314,,Big Bear City,3,2,8,False,False
+1978,AIR10204420,92252,,Joshua Tree,3,2,12,True,True
+1979,AIR1096822,92284,Alta Avenue,Yucca Valley,3,3,6,False,False
+1980,AIR12308076,92315,Starvation Flats Road,Big Bear Lake,3,2,8,True,True
+1981,AIR17402912,92315,,Big Bear Lake,3,2,7,True,False
+1982,AIR17607461,92315,,Big Bear Lake,3,3,8,True,False
+1983,AIR17625147,92314,,Big Bear City,3,3,10,False,False
+1984,AIR18707253,92315,,Big Bear Lake,3,3,12,True,False
+1985,AIR18770535,92252,,Joshua Tree,3,2,6,True,False
+1986,AIR20409292,92314,,Big Bear City,3,3,10,True,False
+1987,AIR21772137,92315,,Big Bear Lake,3,1,11,False,False
+1988,AIR22469257,92252,,Joshua Tree,5,2,10,False,False
+1989,AIR22772882,92252,,Joshua Tree,3,2,7,False,False
+1990,AIR23109978,92252,,Joshua Tree,3,2,6,False,False
+1991,AIR23230951,92314,,Big Bear City,3,2,8,False,False
+1992,AIR23464977,92252,,Joshua Tree,3,1,6,False,False
+1993,AIR24335468,92315,,Big Bear Lake,3,2,8,True,True
+1994,AIR25254189,92315,,Big Bear Lake,3,3,8,False,False
+1995,AIR26538545,92315,,Big Bear Lake,3,2,6,False,False
+1996,AIR26710123,92252,,Joshua Tree,3,1,6,False,False
+1997,AIR28100585,92315,,Big Bear Lake,3,2,6,False,False
+1998,AIR28560622,92314,,Big Bear City,3,2,10,True,False
+1999,AIR28580897,92315,,Big Bear Lake,3,2,8,False,False
+2000,AIR28690298,92252,,Joshua Tree,3,2,8,False,False
+2001,AIR28736130,92252,,Joshua Tree,4,2,8,True,False
+2002,AIR29064869,92315,,Big Bear Lake,3,2,7,True,False
+2003,AIR29285569,92315,,Big Bear Lake,5,4,15,True,False
+2004,AIR29615998,92315,,Big Bear Lake,3,2,6,True,False
+2005,AIR29653553,92314,,Big Bear City,4,3,10,False,False
+2006,AIR30035785,92314,,Big Bear City,3,3,8,False,False
+2007,AIR30057104,92315,,Big Bear Lake,5,3,11,False,False
+2008,AIR30057284,92315,,Big Bear Lake,3,2,6,True,False
+2009,AIR30073306,92315,,Big Bear Lake,3,2,6,False,False
+2010,AIR30329039,92315,,Big Bear Lake,3,1,7,False,False
+2011,AIR30440098,92314,,Big Bear City,5,3,10,False,False
+2012,AIR31827001,92252,,Joshua Tree,3,2,6,False,False
+2013,AIR32721374,92252,,Joshua Tree,3,1,6,False,False
+2014,AIR34318186,92314,,Big Bear City,3,2,8,True,False
+2015,AIR34949724,92314,,Big Bear City,3,2,9,False,False
+2016,AIR37819774,92315,,Big Bear Lake,3,2,10,True,False
+2017,AIR38436406,92315,,Big Bear Lake,3,1,6,False,False
+2018,AIR38552602,92315,,Big Bear Lake,3,3,10,False,False
+2019,AIR39948794,92315,,Big Bear Lake,4,2,8,False,False
+2020,AIR40178661,92315,,Big Bear Lake,3,2,8,True,False
+2021,AIR40355130,92315,,Big Bear Lake,3,3,7,False,False
+2022,AIR40560611,92252,,Joshua Tree,3,2,6,False,False
+2023,AIR40591073,92314,,Big Bear City,3,3,6,False,False
+2024,AIR40632258,92315,,Big Bear Lake,3,2,8,False,False
+2025,AIR4718466,92314,East Cedar Lane,Big Bear City,3,2,10,False,False
+2026,AIR6041458,92315,Fox Farm Road,Big Bear Lake,3,3,10,False,False
+2027,AIR9577334,92314,Plumas Court,Big Bear City,3,2,6,False,False
+2028,AIR12312237,92315,Scandia Road,Big Bear Lake,3,3,11,False,False
+2029,AIR14480137,92315,Lakeview Drive,Big Bear Lake,4,3,11,True,True
+2030,AIR16499082,92314,,Big Bear City,3,2,8,False,False
+2031,AIR17329427,92315,,Big Bear Lake,3,2,5,True,False
+2032,AIR19982745,92252,,Joshua Tree,3,1,8,False,False
+2033,AIR21330397,92315,,Big Bear Lake,3,2,6,False,False
+2034,AIR22704361,92315,,Big Bear Lake,3,2,9,True,True
+2035,AIR23934886,92315,,Big Bear Lake,3,1,7,False,False
+2036,AIR23953405,92315,,Big Bear Lake,4,3,10,False,False
+2037,AIR24082240,92314,,Big Bear City,3,2,6,False,False
+2038,AIR24627115,92252,,Joshua Tree,4,3,8,False,False
+2039,AIR2546716,92315,Village Drive,Big Bear Lake,4,4,10,True,True
+2040,AIR26450905,92314,,Big Bear City,4,2,9,False,False
+2041,AIR28433390,92315,,Big Bear Lake,4,2,6,True,False
+2042,AIR29054425,92315,,Big Bear Lake,4,4,15,True,False
+2043,AIR29180541,92314,,Big Bear City,4,4,15,True,False
+2044,AIR29568641,92314,,Big Bear City,3,3,8,False,False
+2045,AIR29693482,92315,,Big Bear Lake,3,2,8,False,False
+2046,AIR29924541,92315,,Big Bear Lake,4,2,10,True,False
+2047,AIR30145528,92315,,Big Bear Lake,3,2,6,True,False
+2048,AIR30145610,92315,,Big Bear Lake,4,3,8,False,False
+2049,AIR3066578,92315,Silver Tip Drive,Big Bear Lake,4,3,9,True,False
+2050,AIR31169827,92252,,Joshua Tree,3,2,7,True,False
+2051,AIR31174865,92252,,Joshua Tree,3,2,6,False,False
+2052,AIR31593242,92315,,Big Bear Lake,3,2,6,False,False
+2053,AIR34188928,92315,,Big Bear Lake,3,2,8,False,False
+2054,AIR34542501,92252,,Joshua Tree,3,2,8,False,False
+2055,AIR35174764,92315,,Big Bear Lake,3,3,7,False,False
+2056,AIR36811465,92314,,Big Bear City,3,2,8,False,False
+2057,AIR38352353,92315,,Big Bear Lake,4,2,15,False,False
+2058,AIR39134639,92314,,Big Bear City,3,2,8,True,False
+2059,AIR39220024,92314,,Big Bear City,3,2,5,False,False
+2060,AIR39616427,92315,,Big Bear Lake,4,4,15,False,False
+2061,AIR4746504,92314,Forest Hill Drive,Big Bear City,3,2,10,False,False
+2062,AIR5017283,92315,Village Drive,Big Bear Lake,3,3,10,True,True
+2063,AIR8169371,92314,La Crescenta Drive,Big Bear City,3,3,9,True,False
+2064,AIR9060954,92315,Switzerland Drive,Big Bear Lake,3,2,8,False,False
+2065,AIR12092863,92315,Teakwood Drive,Big Bear Lake,3,3,10,False,False
+2066,AIR12917859,92314,Crimson Circle,Big Bear City,3,3,6,False,False
+2067,AIR14150014,92314,Plumas Court,Big Bear City,3,3,8,False,False
+2068,AIR16381775,92315,,Big Bear Lake,3,2,8,True,False
+2069,AIR17415051,92314,,Big Bear City,4,2,10,False,False
+2070,AIR21747178,92315,,Big Bear Lake,4,4,12,True,False
+2071,AIR21800927,92314,,Big Bear City,3,2,10,False,False
+2072,AIR21871963,92314,,Big Bear City,5,6,12,False,False
+2073,AIR22231196,92252,,Joshua Tree,3,4,6,True,False
+2074,AIR23018793,92284,,Yucca Valley,3,2,6,True,False
+2075,AIR25135284,92314,,Big Bear City,3,2,5,True,False
+2076,AIR25171120,92315,,Big Bear Lake,3,2,7,True,False
+2077,AIR25224076,92252,,Joshua Tree,3,2,8,True,False
+2078,AIR25534458,92315,,Big Bear Lake,3,2,6,True,False
+2079,AIR28992762,92284,,Yucca Valley,3,2,8,False,False
+2080,AIR30073201,92314,,Big Bear City,3,1,6,False,False
+2081,AIR30145505,92315,,Big Bear Lake,3,2,7,True,False
+2082,AIR30145630,92315,,Big Bear Lake,3,3,7,False,False
+2083,AIR30145662,92315,,Big Bear Lake,4,4,14,True,False
+2084,AIR30508781,92314,,Big Bear City,3,2,6,False,False
+2085,AIR30674528,92315,,Big Bear Lake,3,3,6,True,False
+2086,AIR31518091,92315,,Big Bear Lake,3,2,9,True,False
+2087,AIR32793541,92315,,Big Bear Lake,4,3,10,False,False
+2088,AIR33493767,92315,,Big Bear Lake,5,3,10,False,False
+2089,AIR35883636,92315,,Big Bear Lake,3,2,8,False,False
+2090,AIR37282173,92314,,Big Bear City,4,2,10,False,False
+2091,AIR39084035,92315,,Big Bear Lake,5,5,14,True,False
+2092,AIR39223833,92315,,Big Bear Lake,3,2,6,False,False
+2093,AIR40228320,92252,,Joshua Tree,4,2,8,True,False
+2094,AIR932814,92284,,Yucca Valley,3,1,5,False,False
+2095,AIR14253315,92315,Glenwood Drive,Big Bear Lake,4,4,15,False,False
+2096,AIR17591943,92315,,Big Bear Lake,4,4,14,False,False
+2097,AIR17607622,92315,,Big Bear Lake,4,5,15,True,False
+2098,AIR18684084,92315,,Big Bear Lake,3,1,6,False,False
+2099,AIR18684086,92315,,Big Bear Lake,4,3,6,False,False
+2100,AIR18807721,92284,,Yucca Valley,3,2,8,False,False
+2101,AIR21719102,92315,,Big Bear Lake,3,2,8,True,True
+2102,AIR22100016,92315,,Big Bear Lake,3,2,6,False,False
+2103,AIR22956685,92315,,Big Bear Lake,5,5,15,True,False
+2104,AIR24669208,92314,,Big Bear City,4,2,9,True,False
+2105,AIR30057259,92315,,Big Bear Lake,3,2,5,True,False
+2106,AIR30057264,92315,,Big Bear Lake,3,3,8,False,False
+2107,AIR30122406,92315,,Big Bear Lake,3,3,10,True,False
+2108,AIR30145559,92315,,Big Bear Lake,4,5,8,True,False
+2109,AIR30145569,92315,,Big Bear Lake,3,2,6,False,False
+2110,AIR30968758,92315,,Big Bear Lake,4,3,10,True,False
+2111,AIR31141479,92314,,Big Bear City,3,2,8,False,False
+2112,AIR32636242,92314,,Big Bear City,3,3,11,False,False
+2113,AIR34024409,92315,,Big Bear Lake,4,3,14,False,False
+2114,AIR34976249,92315,,Big Bear Lake,4,4,10,True,True
+2115,AIR35416463,92315,,Big Bear Lake,4,2,8,True,False
+2116,AIR37990986,92315,,Big Bear Lake,4,2,10,False,False
+2117,AIR39606307,92315,,Big Bear Lake,4,4,15,False,False
+2118,AIR39948646,92315,,Big Bear Lake,3,2,8,False,False
+2119,AIR40236432,92315,,Big Bear Lake,4,3,10,False,False
+2120,AIR40288939,92315,,Big Bear Lake,3,2,7,True,False
+2121,AIR40428322,92314,,Big Bear City,3,2,6,False,False
+2122,AIR40526108,92315,,Big Bear Lake,3,2,7,False,False
+2123,AIR5819912,92315,Silver Tip Drive,Big Bear Lake,3,2,8,False,False
+2124,AIR5933057,92315,,Big Bear Lake,3,3,8,True,False
+2125,AIR6691895,92315,Silver Tip Drive,Big Bear Lake,3,2,6,True,False
