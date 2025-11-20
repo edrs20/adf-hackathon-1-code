@@ -176,6 +176,10 @@ display(ss_data['Time to even'].groupby(ss_data['City']).describe())
 
 :::
 
+## Dashboard.
+
+[Dashboard](https://edrs20.github.io/adf-hackathon-1/)
+
 ## Part 2
 
 :::{.r-fit-text}
@@ -191,6 +195,15 @@ rev = pd.read_csv('./Resources/Data/revenue_per_month.csv')
 mean_rev = rev.groupby('unified_id')['revenue'].mean().reset_index()
 df = pd.merge(prop, mean_rev, on='unified_id')
 del prop[prop.columns[0]]
+df = df.dropna()
+df['bedrooms'] = df['bedrooms'].astype(int)
+df['bathrooms'] = df['bathrooms'].astype(int)
+di = {'Rd':'Road', 'St':'Street', 'Ave':'Avenue', 'Blvd':'Boulevard', 'Dr':'Drive', 'Ln':'Lane', 'Ct':'Court', 'Pl':'Place', 'Ter':'Terrace', 'Cir':'Circle'}
+ss_data['Street Name'].replace(di, regex=True, inplace=True)
+
+combined = pd.merge(df, ss_data, left_on=['street_name','city','bathrooms','bedrooms'], right_on=['Street Name','City','Bathrooms','Bedrooms'], how='inner')
+
+
 prop.head(2)
 ```
 
@@ -198,44 +211,31 @@ prop.head(2)
 
 ## Part 2
 
-:::{.r-fit-text}
+After:
 
-Revenue:
+- finding the average revenue
+- combining with the property data
+- standardising the road names accross the two data sets
+- then matching on city, road, bathrooms and bedrooms
 
-```{python}
-#| echo: false
+we can compare rental and air B&B revenue
 
-rev.head(6)
-```
 
-:::
-
-## Average out revenue
+## Rental vs Revenue
 
 :::{.r-fit-text}
 
-mean revenue:
-
 ```{python}
-#| echo: false
-
-mean_rev.head(6)
-```
-
-Not worrying that some where massive and some were negative
-
-:::
-
-## merge
-
-:::{.r-fit-text}
-
-mean revenue:
-
-```{python}
-#| echo: false
-
-df.head(6)
+sub_df = combined[['Rent Estimate','revenue','city']]
+r = sub_df[['Rent Estimate','city']]
+r['type'] = 'Rent Estimate'
+r.rename(columns={'Rent Estimate':'value'}, inplace=True)
+#r.head()
+l = sub_df[['revenue','city']]
+l['type'] = 'Revenue'
+l.rename(columns={'revenue':'value'}, inplace=True)
+c = pd.concat([l,r], ignore_index=True)
+sns.boxplot(data=c, x='city', y='value', hue='type')
 ```
 
 
