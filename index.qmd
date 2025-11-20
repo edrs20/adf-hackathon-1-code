@@ -1,0 +1,242 @@
+---
+title: "Sale smart"
+author: "Room 3"
+format: revealjs
+---
+
+## Sale Smart
+
+::: {.r-fit-text}
+
+Your task is to produce visualizations in Python that show:
+For each city:
+
+ - The average house sale price
+ - The average estimated monthly rental income
+ - How long it will take a property on average to achieve the sale price from rental income for a selected city.
+
+The visualizations should adhere to User Experience best practices including:
+
+- Inclusive & accessible design
+- Appropriate use of visualizations
+
+:::
+
+## The Data
+
+![https://medium.com/tiket-com/creating-a-custom-data-quality-check-on-dbt-data-build-tool-ceec919702a1](clean.webp){width="400" height="400"}
+
+
+## The Data 
+
+:::{.r-fit-text}
+
+```{python}
+#| echo: false
+
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+ss_data = pd.read_csv('Resources/Data/san_berandino_prices.csv')
+dupes = ss_data[ss_data.duplicated(['Living Area','Street Name','City','Zip'],keep=False)].sort_values(by=['Living Area','Street Name','City','Zip'])
+```
+
+There was some werid duplicates
+
+::: {.fragment}
+Which we removed! 
+:::
+
+::: {.fragment .strike}
+```{python}
+display(dupes.head(4))
+```
+:::
+
+:::
+
+## The Data 
+
+:::{.r-fit-text}
+
+We also had some `NaN`s too - which we removed.
+
+```{python}
+#| echo: false
+
+ss_data = ss_data[~ss_data.duplicated(['Living Area','Street Name','City','Zip'],keep=False)]
+ss_data.info()
+```
+
+:::
+
+## The average house sale price
+
+
+
+```{python}
+#| echo: false
+sns.boxplot(data=ss_data, x='City', y='Price', showmeans=True,
+            meanprops={'marker':'x',
+                       'markerfacecolor':'white', 
+                       'markeredgecolor':'black',
+                       'markersize':'8'})
+plt.title('House Prices by City in San Bernardino County')
+plt.xlabel('City')
+plt.ylabel('Price')
+plt.xticks(rotation=45)
+plt.show()
+```
+
+## The average house sale price
+
+:::{.r-fit-text}
+
+Yoink - there are some expensive properties
+
+And only $1$ at `'Panorama Heights'`.
+
+:::
+
+## The average house sale price
+
+```{python}
+#| echo: false
+
+ss_data = ss_data[ss_data['Price'] < 1800000]
+ss_data = ss_data[ss_data['City'] != 'Panorama Heights']
+
+sns.boxplot(data=ss_data, x='City', y='Price', color="skyblue",showmeans=True,
+            meanprops={'marker':'x',
+                       'markeredgecolor':'black',
+                       'markersize':'10'})
+plt.title('House Prices by City in San Bernardino County')
+plt.xlabel('City')
+plt.ylabel('Price')
+plt.xticks(rotation=45)
+plt.show()
+```
+
+## Visualisation Accessibility 
+
+- no reliance on colour
+- appropriate diagram
+- acceptable contrast
+- alt-text provided
+
+
+## Estimated monthly rental income
+
+```{python}
+#| echo: false
+
+sns.boxplot(data=ss_data, x='City', y='Rent Estimate', color="skyblue",showmeans=True,
+            meanprops={'marker':'x',
+                       'markeredgecolor':'black',
+                       'markersize':'10'})
+plt.title('House Prices by City in San Bernardino County')
+plt.xlabel('City')
+plt.ylabel('Price')
+plt.xticks(rotation=45)
+plt.show()
+```
+
+
+## Time to sale price.
+
+
+```{python}
+#| echo: false
+
+ss_data['Time to even'] = ss_data['Price'] / (ss_data['Rent Estimate'] * 12)
+
+sns.boxplot(data=ss_data, x='City', y='Time to even', color="skyblue",showmeans=True,
+            meanprops={'marker':'x',
+                       'markeredgecolor':'black',
+                       'markersize':'10'})
+plt.title('House Prices by City in San Bernardino County')
+plt.xlabel('City')
+plt.ylabel('Price')
+plt.xticks(rotation=45)
+plt.show()
+```
+
+
+## Time to sale price.
+
+:::{.r-fit-text}
+
+```{python}
+#| echo: false
+
+display(ss_data['Time to even'].groupby(ss_data['City']).describe())
+
+```
+
+:::
+
+## Part 2
+
+:::{.r-fit-text}
+
+We were given some data about Air B&B.
+
+Properites:
+
+```{python}
+#| echo: false
+prop = pd.read_csv('./Resources/Data/property_info.csv')
+rev = pd.read_csv('./Resources/Data/revenue_per_month.csv')
+mean_rev = rev.groupby('unified_id')['revenue'].mean().reset_index()
+df = pd.merge(prop, mean_rev, on='unified_id')
+del prop[prop.columns[0]]
+prop.head(2)
+```
+
+:::
+
+## Part 2
+
+:::{.r-fit-text}
+
+Revenue:
+
+```{python}
+#| echo: false
+
+rev.head(6)
+```
+
+:::
+
+## Average out revenue
+
+:::{.r-fit-text}
+
+mean revenue:
+
+```{python}
+#| echo: false
+
+mean_rev.head(6)
+```
+
+Not worrying that some where massive and some were negative
+
+:::
+
+## merge
+
+:::{.r-fit-text}
+
+mean revenue:
+
+```{python}
+#| echo: false
+
+df.head(6)
+```
+
+
+:::
